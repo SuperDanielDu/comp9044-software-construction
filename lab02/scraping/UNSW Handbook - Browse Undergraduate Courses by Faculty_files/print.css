@@ -1,0 +1,111 @@
+body#home {
+	background: #ffffff;
+	font-family:		Arial, Helvetica, sans-serif;
+	font-size:			12px;
+}
+
+div#header {
+	width: 98%;
+}
+
+div#contentWrapper {
+	width: 98%;
+}
+
+body div#navigationBar {
+	display: none;
+}
+
+body div.rightButtons {
+	display: none;
+}
+
+body div#content div#contentPane div.column.nav-col,
+body div#content div#contentPane div.column.small-col {
+	display: none;
+}
+
+body div#content div#contentPane div.column.content-col {
+	width: 100%;
+}
+
+div.contentColWrapper {
+	display: none;
+}
+
+div.genericBoxWrapper {
+	display: none;
+}
+
+div#footerWrapper {
+	display: none;
+}
+
+/* Internal Content Styles*/
+div#content div#contentPane div.content-col div.internalContentWrapper h1 {
+	color:				#000000;
+}
+
+div#contentWrapper.ug div#content div#contentPane div.content-col div.internalContentWrapper h1 {
+	color:				#E94C00;
+}
+
+div#contentWrapper.pg div#content div#contentPane div.content-col div.internalContentWrapper h1 {
+	color:				#367716;
+}
+
+div#contentWrapper.pgr div#content div#contentPane div.content-col div.internalContentWrapper h1 {
+	color:				#773E77;
+}
+
+div#contentWrapper.na div#content div#contentPane div.content-col div.internalContentWrapper h1 {
+	color:				#277F85;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h2 {
+	color:				#6699CC;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h3 {
+	color:				#000000;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h4 {
+	color:				#000000;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper p {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper ul,
+div#content div#contentPane div.content-col div.internalContentWrapper ol {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper ul li,
+div#content div#contentPane div.content-col div.internalContentWrapper ol li {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper a,
+div#content div#contentPane div.content-col div.internalContentWrapper a:visited {
+	color:				#274F92;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper a:hover,
+div#content div#contentPane div.content-col div.internalContentWrapper a:active {
+	color:				#000000;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper div.summary {
+	border:							1px solid #adcbf5;
+	background:						#ebf1f8;
+	border-top-left-radius:			10px 10px;
+	border-top-right-radius:		10px 10px;
+	border-bottom-left-radius:		10px 10px;
+	border-bottom-right-radius:		10px 10px;
+	margin:							20px 0 30px 0;
+	padding:						10px 20px 10px 20px;
+	display:						block;
+}

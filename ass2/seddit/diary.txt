@@ -1,0 +1,10 @@
+Date	Start	Stop	            Activity	   			Comments 
+8/2     almost whole day			coding			setup and start subset 0
+8/3    11:00						coding			use fetch to touch backend
+ 
+8/4      whole day                   coding                             finish subset 0 and 1
+8/9     whole                       coding                do all subset 0,1,2
+8/10
+8/11
+8/12       whole day                  coding            finish before search functionality and improve compatibility
+8/13      12:00-14:00                coding               add search functionality

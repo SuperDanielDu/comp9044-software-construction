@@ -1,0 +1,1063 @@
+
+body#home {
+	font-family:		Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	padding:			0;
+	margin:				0 0 10px 0;
+	width:				100%;
+	height:				100%;
+	text-align:			center;
+	background-image:	url('/images/2018/muBackground.gif');
+}
+
+a img {
+	border:				none;
+}
+
+body#home a{
+	display:			inline;
+}
+
+div#pageWrapper {
+	width:				100%;
+	margin:				0 auto;
+	height:				auto;
+	display:			block;
+	position:			relative;
+	text-align:			left;
+}
+
+/* Lightbox */
+div#overlay {
+	position:			fixed;
+	top:				0px;
+	left:				0px;
+	width:				100%;
+	height:				100%;
+	opacity:			0.85;
+	filter:				alpha(opacity = 85);
+	z-index:			1000;
+}
+
+div#lightbox {
+	position:			fixed;
+	top:				50px;
+	left:				0px;
+	width:				100%;
+	text-align:			center;
+	z-index:			1001;
+}
+
+div#lightbox div#lightboxWrapper {
+	display:			block;
+	position:			relative;
+	margin:				0 auto;
+	width:				660px;
+	text-align:			left;
+}
+
+div#lightbox div#lightboxHeader div#closeBar {
+	height:				26px;
+}
+
+div#lightbox div#lightboxHeader div#closeBar a {
+	float:				right;
+	margin-top:			4px;
+	margin-right:		4px;
+}
+
+div#lightbox div#lightboxHeader h1 {
+	font-size:			22px;
+	font-weight:		normal;
+	padding:			18px 0 18px 32px;
+	margin:				0;
+}
+
+div#lightbox div#lightboxHeader div#headerBar {
+	height:				26px;
+	margin-bottom:		25px;
+}
+
+div#lightbox div#lightboxContent form input.button {
+	height:				23px;
+	*height:			25px;
+	line-height:		23px;
+	font-size:			14px;
+	margin:				6px 0 0 0;
+	padding:			0 6px 2px 6px;
+}
+
+div#lightbox div#lightboxContent form input.noleftpad {
+	padding-left:		0;
+	margin-left:		0;
+}
+
+div#lightbox div#lightboxContent form input.text, div#lightbox div#lightboxContent form textarea {
+	width:				384px;
+}
+
+div#lightbox div#lightboxContent form textarea {
+	height:				100px;
+	font-family:		Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		20px;
+}
+
+div#lightbox div#lightboxContent table {
+	font-size:			12px;
+	margin-left:		30px;
+}
+
+div#lightbox div#lightboxContent table tr td {
+	padding:			0 0 14px 0;
+	vertical-align:		top;
+}
+
+div#lightbox div#lightboxContent table tr td.left {
+	font-weight:		bold;
+	text-align:			right;
+	width:				150px;
+}
+
+div#lightbox div#lightboxContent table tr td.right {
+	padding-left:		18px;
+	text-align:			left;
+}
+
+div#lightbox div#lightboxContent table tr td span {
+	margin-top:		4px;
+}
+
+div#lightbox div#lightboxContent table tr td.controls div {
+	text-align:			right;
+	margin-right:		8px;
+	margin-bottom:		20px;
+	
+}
+
+/* Header */
+div#headerWrapper {
+	width:				100%;
+	height:				auto;
+	display:			block;
+	position:			relative;
+}
+
+div#header {
+	width:				960px;
+	height:				120px;
+	margin:				0 auto;
+	display:			block;
+	position:			relative;
+	text-align:			left;
+}
+
+div#header div#unsw {
+	padding-top:		24px;
+	padding-left:		0;
+	height:				70px;
+	vertical-align:		top;
+	line-height:		70px;
+	display:			inline-block;
+    vertical-align:		top;
+    zoom:				1;
+    *display:			inline;
+	width:				auto;
+	float:				left;
+}
+
+div#header div#unsw a {
+	height:				70px;
+	line-height:		70px;
+	display:			-moz-inline-stack;
+    display:			inline-block;
+    vertical-align:		top;
+    zoom:				1;
+    *display:			inline;
+
+	padding-right:		20px;
+}
+
+div#header div#unsw h1 {
+	display:			-moz-inline-stack;
+    display:			inline-block;
+    vertical-align:		top;
+    zoom:				1;
+    *display:			inline;
+	font-weight:		normal;
+	font-size:			27px;
+	padding:			0 0 0 20px;
+	margin:				0;
+	line-height:		70px;
+}
+
+div#header div#your-study-planner{
+   padding:24px 50px 0px 0px;
+   height:70px;
+   vertical-align:top;
+   line-height:70px;
+   display:inline-block;
+   vertical-align:top;
+   width:auto;
+   float:right;
+}
+
+div#header div#myUnsw {
+	float:				right;
+	margin:				40px 22px 0 0;
+	display:			-moz-inline-stack;
+    display:			inline-block;
+    vertical-align:		top;
+    zoom:				1;
+    *display:			inline;
+}
+
+/* Content */
+div#contentWrapper {
+	width:				960px;
+	margin:				0 auto;
+	height:				auto;
+	display:			block;
+	position:			relative;
+	text-align:			left;
+}
+
+div#content {
+	
+}
+
+/* Content Pane */
+div#content div#contentPane {
+	padding:			28px 0 0 24px;
+}
+
+div#content div#contentPane h1 {
+	font-size:			22px;
+	font-weight:		normal;
+	margin:				0 0 16px 0;
+	padding:			0;
+}
+
+div#content div#contentPane h2 {
+	font-size:			14px;
+	font-weight:		bold;
+	margin:				0 0 10px 0;
+	padding:			0;
+}
+
+div#content div#contentPane h3 {
+	font-size:			14px;
+	font-weight:		normal;
+	margin:				0 0 10px 0;
+	padding:			0;
+}
+
+div#content div#contentPane p {
+	margin:				0 0 20px 0;
+	padding:			0;
+}
+
+/* Admin Bar */
+div#content div#navigationBar {
+	height:				35px;
+}
+
+div#content div#navigationBar div.left {
+	float:				left;
+	margin:				0;
+}
+
+div#content div#navigationBar div.left ul#actions {
+	list-style:			none;
+	padding:			0;
+	margin:				0;
+	height:				35px;
+	font-size:			15px;
+}
+
+div#content div#navigationBar div.left ul#actions li {
+	float:				left;
+    zoom:				1;
+    *display:			inline;
+	margin:				0;
+	padding:			0;
+	height:				35px;
+	line-height:		35px;
+}
+
+div#content div#navigationBar div.left ul#actions li a {
+	text-decoration:	none;
+	font-weight:		normal;
+	line-height:		35px;
+	height:				35px;
+	margin:				0;
+	padding:			8px 27px 7px 27px;
+	display: inline;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second {
+	left:				-9999px;
+	list-style:			none;
+	width:				282px;
+	padding:			0;
+	margin:				-1px 0 0 -104px;
+	*margin:			33px 0 0 -287px;;
+	position:			absolute;
+}
+
+div#content div#navigationBar div.left ul#actions li.hover ul.second,
+div#content div#navigationBar div.left ul#actions li:hover ul.second {
+	left:				auto;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second li {
+	float:				none;
+    vertical-align:		auto;
+	margin:				0;
+	padding:			0;
+	text-align:			right;
+	float:				right;
+	width:				282px;
+	height:				100%;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second li a {
+	height:				100%;
+	width:				266px;
+	display:			block;
+	line-height:		24px;
+	margin:				0;
+	padding:			10px 16px 10px 0;
+	display: inline;
+}
+
+/* Handbook Header */
+div#content  div#handbookHeader {
+	height:				78px;
+}
+
+div#content  div#handbookHeader.homeHeader {
+	height:				186px;
+}
+
+div#content  div#handbookHeader div.rightButtons {
+	float:				right;
+	margin:				20px 20px 0 0;
+	padding:			0;
+}
+
+/* Home header */
+div#content  div#handbookHeader.homeHeader div.rightButtons {
+	margin-top:			70px;
+}
+
+/* Content Styles */
+div#content div#contentPane {
+	
+}
+
+div#content div#contentPane div.column {
+	display:			inline-block;
+    vertical-align:		top;
+    zoom:				1;
+	display:			inline-block;
+    *display:			inline;
+}
+
+/* Home Content Styles */
+div#content div#contentPane.homeContent {
+	padding:			23px 28px;
+}
+
+div#content div#contentPane div.column.two-col {
+	width:				426px;
+	margin-right:		16px;
+}
+
+div#content div#contentPane div.column.two-col.home-right {
+	width:				458px;
+	margin-right:		0;
+}
+
+div#content div#contentPane div.infoBox {
+	
+}
+
+/* Content Styles */
+div#content div#contentPane div.column.content-col {
+	width:				528px;
+	margin-right:		20px;
+}
+
+div#content div#contentPane div.column.content-col div.contentColWrapper {
+	padding:			16px 18px;
+	margin:				0 0 20px 0;
+}
+
+div#content div#contentPane div.column.content-col-generic {
+	width:				686px;
+}
+
+div#content div#contentPane div.column.content-col-generic table tr td {
+	font-size: 12px;
+	padding: 4px;
+}
+
+/* Right column styles*/
+div#content div#contentPane div.column.small-col {
+	width:				108px;
+}
+
+/* Side Navigation */
+div#content div#contentPane div.sideNavWrapper {
+	margin:						0 20px 20px 0;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNavHeader,
+div#content div#contentPane div.sideNavWrapper div.sideNav {
+	margin:				0;
+	padding:			0;
+	display:			block;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav h5{
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    width: 200px;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNavHeader a {
+	padding:			0;
+	margin:				0;
+	width:				202px;
+	height:				60px;
+	display:			block;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul {
+	padding:			0;
+	margin:				0;
+	list-style:			none;
+	width:				200px;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li {
+	padding:			0;
+	margin:				0;
+	width:				200px;
+	height:				37px;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li a {
+	text-decoration:	none;
+	font-size:			13px;
+	height:				37px;
+	line-height:		37px;
+	width:				185px;
+	padding:			0 0 0 15px;
+	display:			block;
+}
+
+div#content div#contentPane div.column.content-col div.contentColWrapper p {
+	font-size:			11px;
+	margin:				10px 0 10px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.column.content-col div.contentColWrapper div.advanced {
+	text-align:			center;
+}
+
+div#content div#contentPane div.column.small-col div.infoBox {
+	margin:				0 0 20px 0;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader {
+	height:				21px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader h2 {
+	font-size:			12px;
+	font-weight:		normal;
+	margin:				0;
+	line-height:		21px;
+	padding:			0 0 0 18px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader.blue h2 {
+	font-size:			14px;
+	font-weight:		bold;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader.leaf h2 {
+	padding:			0 0 0 48px;
+}
+
+div#content div#contentPane div.column.small-col div.infoBox div.infoBoxHeader h2 {
+	padding:			0;
+	text-align:			center;
+	font-size:			11px;
+}
+
+div#content div#contentPane div.column.small-col div.infoBoxGeneric h3 {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0;
+	padding: 5px 0;text-align: center;
+}
+
+div#content div#contentPane div.column.small-col div.infoBoxGeneric p {
+	padding: 0 5px;
+	margin: 0 0 15px;
+	font-size: 11px;
+}
+
+/* Handbook Search Box */
+div#content div#contentPane div.infoBox.searchBox {
+	margin:				0 0 20px 0;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBoxWrapper {
+	padding:			18px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox {
+	padding:			10px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox h3 {
+	font-size:			12px;
+	font-weight:		bold;
+	margin:				0;
+	padding:			0;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox p {
+	font-size:			10px;
+	margin:				0 0 14px 0;
+	padding:			0;
+}
+
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox div.controls div.controlsRow {
+	margin:				0 0 6px 0;
+	height:				18px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox label {
+	font-size:			12px;
+	width:				85px;
+	display:			inline-block;
+    zoom:				1;
+    *display:			inline;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox select {
+	width:				282px;
+	display:			inline-block;
+    zoom:				1;
+    *display:			inline;
+	height:				22px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox input.text {
+	width:				278px;
+	display:			inline-block;
+    zoom:				1;
+    *display:			inline;
+	height:				18px;
+	margin-right:		6px;
+	padding-left:		3px;
+}
+
+div#content div#contentPane.homeContent div.infoBox div.infoBoxContent div.searchBox select,
+div#content div#contentPane.homeContent div.infoBox div.infoBoxContent div.searchBox input.text {
+	width:				220px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox input.button {
+	width:				60px;
+}
+
+/* Generic Boxes */
+div#content div#contentPane div.genericBoxWrapper {
+	height:				205px; /* original height:172px; */
+}
+
+div#content div#contentPane div.genericBox {
+	float:				left;
+	display:			inline-block;
+    zoom:				1;
+    *display:			inline;
+}
+
+/* Direct Find Box */
+div#content div#contentPane div.genericBox.directFindBox {
+	width:				488px;
+	height:				156px;
+	margin:				0;
+	padding:			10px 14px 0 16px;
+}
+
+div#content div#contentPane div.genericBox.directFindBox h4 {
+	font-size:			13px;
+	text-transform:		uppercase;
+	margin:				0 0 20px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.genericBox.directFindBox p {
+	padding:			0;
+	margin:				0;
+	font-size:			11px;
+}
+
+div#content div#contentPane div.genericBox.directFindBox div.header {
+	margin:				0;
+	padding:			0;
+}
+
+div#content div#contentPane div.genericBox.directFindBox div.search {
+	height:				60px;
+}
+
+div#content div#contentPane div.genericBox.directFindBox div.search input.text {
+	width:				440px;
+	height:				16px;
+	margin:				6px 0 0 40px;
+}
+
+div#content div#contentPane div.genericBox.directFindBox div.search input.button {
+	float:				right;
+	margin:				14px 6px 0 0;
+}
+
+/* General Education Box */
+div#content div#contentPane div.genericBox.generalEducationBox {
+	display:			none;
+	width:				182px;
+	height:				164px;
+	margin:				0;
+	padding:			28px 14px 0 12px;
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.links ul {
+	margin:				28px 0 0 0;
+	padding:			0;
+	list-style:			none;
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.links ul li {
+	height:				25px;
+	
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.links ul li a {
+	text-decoration:	none;
+	padding:			0 0 0 18px;
+	height:				25px;
+	line-height:		25px;
+	display:			block;
+}
+
+/* UG Only Styles*/
+div#contentWrapper.ug div#content div#contentPane div.genericBoxWrapper {
+	height:				196px;
+}
+
+div#contentWrapper.ug div#contentPane div.genericBox.generalEducationBox {
+	display:			block;
+	float: right;
+}
+
+div#contentWrapper.ug div#content div#contentPane div.genericBox.directFindBox {
+	float: left;
+	width: 262px;
+	height: 182px;
+	
+}
+
+div#contentWrapper.ug div#content div#contentPane div.genericBox.directFindBox div.search input.text {
+	width:				224px;
+}
+
+/* Direct Find in Side Nav */
+div#contentWrapper div#content div#contentPane div.nav-col div.genericBox.directFindBox {
+	width:				170px;
+	height:				auto;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericBox.directFindBox p {
+	margin:				10px 0 16px 0;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericBox.directFindBox div.search input.text {
+	width:				128px;
+}
+
+/* Non Award Image */
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox {
+	width:				200px;
+	height:				auto;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox img.campus{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links {
+	padding: 10px 25px;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links ul.strong{
+	 font-weight: bold; 
+	 margin: 5px 10px 0 0;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links ul{
+	font-size: 11px;
+	list-style: none outside none;
+	padding: 0;
+	text-indent: 0
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links ul.strong li{
+	background-image: url("/images/hbImages/hbNavBulletStrong.gif");
+	background-position: 0 0.5em;
+	padding: 1px 0 1px 12px;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links ul li {
+	background-repeat: no-repeat;
+	margin-left: 6px;
+}
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links ul.strong li a:link, a:visited{
+	display: block;
+	line-height: 1.2em;
+	text-decoration: none;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.lhs_links ul.strong li a:hover{
+	display: block;
+	line-height: 1.2em;
+	text-decoration: none;
+}
+
+/* 4 Home study choice boxes*/
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBoxRow {
+	height:				134px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox {
+	float:				left;
+    vertical-align:		top;
+    zoom:				1;
+    *display:			inline;
+	padding:			16px 10px 0 20px;
+	margin:				0;
+	width:				180px;
+	height:				118px;
+	overflow:			hidden;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox div.arrow {
+	height:				23px;
+	width:				24px;
+	position:			absolute;
+	margin-top:			90px;
+	margin-left:		160px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox h2 {
+	font-size:			17px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox p {
+	margin:				0;
+	padding:			0;
+	line-height:		11px;
+	font-size:			11px;
+	font-weight:		bold;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox ul {
+	margin:				2px 0 0 14px;
+	padding:			0;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox ul li {
+	font-size:			11px;
+	margin:				0;
+	padding:			0;
+}
+
+/* Quick Links Home */
+div#content div#contentPane.homeContent div.infoBox div.infoBoxContent div.quickLinksBox {
+	padding:			2px 0 0 5px;
+	margin:				0;
+}
+
+/* Quick Links */
+div#content div#contentPane div.infoBox div.infoBoxContent div.quickLinksBox {
+	padding:			2px 0 2px 3px;
+	margin:				0;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.quickLinksBox a {
+	padding:			0;
+	margin:				0;
+	width:				86px;
+	height:				34px;
+	display: inline;
+}
+
+/* Right Column Styles */
+div#contentWrapper div#content div#contentPane div.small-col div.imgBox {
+	margin:				0 0 15px 0;
+	padding:			0;
+}
+
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList {
+	padding:			6px 4px;
+	margin:				0 0 0 14px;
+}
+
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList li {
+	padding:			0;
+	margin:				0;
+	list-style:			square;
+	font-size: 11px;
+}
+
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList li a {
+	text-decoration:	none;
+	height:				auto;
+	width:				auto;
+}
+
+
+/* Internal Content Styles*/
+div#content div#contentPane div.content-col div.internalContentWrapper,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper {
+	margin:				0 0 50px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	display:			block;
+	font-size:			18px;
+	font-weight: 		bold;
+	margin:				0 0 12px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	display:			block;
+	font-size:			16px;
+	font-weight: 		bold;
+	margin:				0 0 12px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h2,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h2,
+div#content div#contentPane.internalContent div.column div.internalContentWrapper a span.headBlue {
+	font-size:			14px;
+	font-weight:		bold;
+	margin:				0 0 12px 0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h3,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h3 {
+	font-size:			12px;
+	font-weight:		bold;
+	margin:				0 0 10px 0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h4 {
+	font-size: 14px;
+	margin: 0 0 6px 2px;
+}
+
+div#contentWrapper.gen div#content div#contentPane div.content-col div.internalContentWrapper h4.faculty,
+div#contentWrapper.gen div#content div#contentPane div.content-col-generic div.internalContentWrapper h4.faculty {
+	font-size:			14px;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper p,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper p {
+	font-size:			12px;
+	line-height:		17px;
+	margin:				16px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper p.statusNote,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper p.statusNote {
+	font-size:			12px;
+	font-weight: bold;
+	line-height:		12px;
+	margin:				10px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper p span.headBlue,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper p span.headBlue {
+	font-size:			14px;
+	font-weight: bold;
+}
+
+div#content div#contentPane div.content-col-generic div.internalContentWrapper div.faculty p {
+	font-size:			12px;
+	line-height:		17px;
+	margin:				8px 0;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper p.smalltext,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper p.smalltext {
+	font-size: 10px;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper ul,
+div#content div#contentPane div.content-col div.internalContentWrapper ol,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper ul,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper ol{
+	margin:				14px 0 14px 36px;
+	padding:			0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper ul li,
+div#content div#contentPane div.content-col div.internalContentWrapper ol li,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper ul li,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper ol li {
+	margin:				2px 0;
+	padding:			0;
+	line-height:		16px;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper a,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper a {
+	text-decoration:	none;
+	display: inline;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper div.summary,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper div.summary {
+	margin:				0px 0 15px 0;
+	padding:			10px 20px 10px 20px;
+	display:			block;
+	float:				left;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper div.clear,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper div.clear {
+	clear:				both;
+	max-height: 1px;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper div.summary p,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper div.summary p {
+	margin:				6px 0;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper table.mainbody tr td{
+	font-size: 12px;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper table.mainbody tr td div{
+	font-size: 1em;
+
+}
+
+/* Footer */
+div#footerWrapper {
+	width:				960px;
+	margin:				0 auto;
+	height:				auto;
+	display:			block;
+	position:			relative;
+	text-align:			left;
+}
+
+div#footer {
+	font-size:			10px;
+	padding:			15px 30px 10px;
+}
+
+div#footer div#boilerPlate p {
+	padding:			0;
+	margin:				0 0 10px 0;
+	line-height:		15px;
+}
+
+div#footer div#links {
+	height:				30px;
+}
+
+div#footer div#links p {
+	padding:			0;
+	margin:				0;
+}
+
+div#footer div#links a, div#footer div#links a:visited {
+	text-decoration:	none;
+	display: inline;
+}
+
+div#footer div#links a:hover {
+	text-decoration:	underline;
+}
+
+
+/********* TABULATED INFO *********/
+.tabluatedInfo {
+	width: 100%;
+	margin-left: 2px;
+	border: 1px solid rgb(112, 154, 197);
+}
+	.tabluatedInfo caption {
+		font-size: 1.0em;
+	}
+	.faculty {
+		margin-left: 2px;
+	}
+	.tabluatedInfo caption br {
+			display: none;
+		}
+	.white {
+		display: none;
+	}
+	
+	.tabluatedInfo th,
+	 td {
+		padding: 4px;
+    font-size: 11px;
+	}
+	
+	.tabluatedInfo td.evenTableCell {
+		background-color: rgb(235, 241, 246);
+	}
+	.tabulatedHeading {
+		background-color: rgb(177, 201, 225);
+	}
+	.bottomBufferBlue {
+		padding: 0px;
+		background-color: rgb(177, 201, 225);
+	}
+
+	table tr td.mainInformation div {
+		font-size: 12px;
+	}
+	
+	table.tabluatedInfo tr td div{
+		font-size: 12px;
+	}

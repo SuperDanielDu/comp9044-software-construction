@@ -1,0 +1,128 @@
+#!/bin/dash
+rm .legit/.status > /dev/null 2>&1
+#check 2 file different (think file 1 always exists by default)
+check_diff(){
+	#1 exist 2 not exist || 1 exist 2 exist but diff
+	if ! [ -e "$2" ]
+	then
+		return 1
+	else
+		diff "$1" "$2" > /dev/null
+		if [ $? = 1 ] #if different
+		then
+			return 1
+		else
+			return 0
+		fi
+	fi
+}
+# num of newest log/repository
+	#if ! [ -s '.legit/.log' ]
+	#then
+	#	num=-1		#no repository yet
+	#else
+	#	num=`cat '.legit/.log'|tail -1| cut -d' ' -f1` 		#the newest log
+	#fi
+#num= branch/current_branch
+current_branch=`cat ".legit/.current"`
+num=branch/$current_branch
+
+#file not in working_file but in repo
+for file in .legit/"$num"/*
+do
+	file_working=`echo "$file"|cut -d/ -f4`
+	if [ ! -e "$file_working" ]
+	then
+		#file in repo but not in working_file not in index
+		if [ ! -e .legit/index/"$file_working" ]
+		then
+			echo ''$file_working' - deleted' >>.legit/.status
+		else
+		#file in repo and index but not in working_file
+			echo ''$file_working' - file deleted' >>.legit/.status
+		fi
+	fi
+done
+
+for file in *
+do
+	#file same as repo
+	if [ -e .legit/"$num"/"$file" ]
+	then
+		check_diff "$file" .legit/"$num"/"$file"
+		if [ $? -eq 0 ] #same
+		then
+			echo ''$file' - same as repo' >>.legit/.status
+			continue
+		fi
+	fi
+	#all file in working_directory
+	#file not in index
+	if [ ! -e .legit/index/"$file" ]
+	then
+		echo ''$file' - untracked' >>.legit/.status
+		continue
+	fi
+	#file same in index but not in repo
+	if [ -e .legit/index/"$file" -a ! -e .legit/"$num"/"$file" ]
+	then
+		check_diff "$file" .legit/index/"$file"
+		if [ $? -eq 0 ] #same
+		then
+			echo ''$file' - added to index' >>.legit/.status
+			continue
+		fi
+	fi
+	#file same in index and same in repo
+	#if [ -e .legit/index/"$file" -a -e .legit/"$num"/"$file" ]
+	#then
+	#	check_diff "$file" .legit/index/"$file"
+	#	if [ $? -eq 0 ] #same
+	#	then
+	#		check_diff "$file" .legit/"$num"/"$file"
+	#		if [ $? -eq 0 ] #same
+	#		then
+	#			echo ''$file' - same as repo' >>.legit/.status
+	#			continue
+	#		fi
+	#	fi
+	#fi
+	# file exist in working_file in index and in repo
+	if [ -e .legit/index/"$file" -a -e .legit/"$num"/"$file" ]
+	then
+		#file diff in index
+		check_diff "$file" .legit/index/"$file"
+		if [ $? -eq 1 ] #diff
+		then
+			#file diff in index but file_index same as file_repo
+			check_diff .legit/index/"$file" .legit/"$num"/"$file"
+			if [ $? -eq 0 ] #same
+			then
+				echo ''$file' - file changed, changes not staged for commit' >>.legit/.status
+				continue
+			else #diff
+			#file diff index and file_idnex diff file_repo
+				echo ''$file' - file changed, different changes staged for commit' >>.legit/.status
+				continue
+			fi
+		#file same as file_index
+		else #same
+			check_diff .legit/index/"$file" .legit/"$num"/"$file"
+			if [ $? -eq 1 ] #diff
+			then
+				echo ''$file' - file changed, changes staged for commit' >>.legit/.status
+				continue
+			fi
+		fi
+	fi
+done
+
+cat .legit/.status|egrep -v '\*'|sort
+			
+		
+		
+		
+		
+		
+		
+		

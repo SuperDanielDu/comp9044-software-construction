@@ -1,0 +1,11 @@
+Date		Start		Stop		Activity	             Comments
+01/07/19	16:00		17:30		reading, coding	        classify the requirement and do legit-init,legit-add
+02/07/19	8:00		10:30		coding,debugging	    do legit-commit,find lots of bugs,and read more references about git
+03/07/19	11:00		13:30		coding	         		do the legit-log and legit-show, not that hard
+05/07/19	13:00		17:30		coding,debugging	    do legit-commit -a -m and legit-rm. Did not well and continue next day
+06/07/19	16:00		21:30		coding	        		do legit-status and find previous problem
+09/07/19	8:00		10:30		coding,debugging	  	keep dealing with previous project problem
+11/07/19	11:00		13:30		coding	         		try to understand branch and checkout section and do a blueprint
+12/07/19	9:00		17:30		coding,debugging	    keep doing branch and checkout, classifying the conditions and stituations to print different output
+13/07/19	11:00	4:00(next day)  coding,debugging	    do legit-branch and legit-checkout. Did not well, stay up late, find it's due to previouse problem.
+14/07/19	11:00		21:50		coding,debugging	    do the final debugging,tackled some previous problem.

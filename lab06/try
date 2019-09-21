@@ -1,0 +1,15 @@
+#!/usr/bin/perl -w
+open $f,'<','andrew_rocks.txt';
+@list=<$f>;
+close $f;
+print"@list\n";
+$a{'a'}=\@list;
+
+#print"$a{'a'}";
+#@line = @$a{'a'};
+print "@{$a{'a'}}";
+for $i (@{$a{'a'}}){
+	print"$i";
+}
+#print "@list";
+

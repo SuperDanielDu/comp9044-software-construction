@@ -1,0 +1,87 @@
+#!/usr/bin/perl -w
+use File::Copy;
+
+unless (-e '.legit/branch'){
+	mkdir '.legit/branch';
+}
+unless ( -e '.legit/.log' ){
+	print "legit-branch: error: your repository does not have any commits yet\n";
+	exit;
+}
+if (-z '.legit/.log'){
+	print "legit-branch: error: your repository does not have any commits yet\n";
+	exit;
+}
+#open IN, '<', '.legit/.log' or die "cant open log";
+
+#delete contents in branch
+sub del_dr{
+	($path)=@_;
+	for $thing (glob "$path/*"){
+		#delete files
+		if (-f $thing){
+			unlink $thing;
+		}
+		#delete directories
+		else{
+			del_dr($thing);
+			rmdir "$thing";
+		}
+	}
+}
+#if delete a branch
+if (@ARGV!=0){
+	if ($ARGV[0] eq '-d'){
+		#if branch == master
+		if ($ARGV[1] eq 'master'){
+			print "legit-branch: error: can not delete branch \'master\'\n";
+			exit;
+		}
+		#if branch exits then delete
+		if (-e ".legit/branch/$ARGV[1]"){
+			del_dr(".legit/branch/$ARGV[1]");
+			rmdir ".legit/branch/$ARGV[1]";
+			print "Deleted branch \'$ARGV[1]\'\n";
+			exit;
+		}
+		#if branch not exists
+		else{
+			print "legit-branch: error: branch \'$ARGV[1]\' does not exist\n";
+			exit;
+		}
+	}
+}
+#create a branch_list including 'master'
+@branch_list=glob(".legit/branch/*");
+
+#no augument means show branches
+if (@ARGV==0){
+	for $branch (sort @branch_list){
+		$branch=~s|.*\/.*\/||g;
+		print "$branch\n";
+	}
+	exit;
+}
+#the argument now is filename, then create branch
+#if the branch already exists
+if (grep { $_ eq ".legit/branch/$ARGV[0]" } @branch_list){
+	print "legit-branch: error: branch \'$ARGV[0]\' already exists\n";
+	exit;
+}
+
+#now create the branch and move all the file to the new branch
+#get current_branch
+#get current_branch
+open IN,'<','.legit/.current' or die "cant open .current";
+$current_branch=<IN>;
+chomp $current_branch;
+close IN;
+mkdir ".legit/branch/$ARGV[0]";
+for $file (glob ".legit/branch/$current_branch/*"){
+	if (-f $file){
+		$file_name=$file=~s|.*\/.*\/.*\/||r;
+		copy("$file", ".legit/branch/$ARGV[0]/$file_name");
+	}
+}
+
+

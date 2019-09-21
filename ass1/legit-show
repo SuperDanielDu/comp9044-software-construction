@@ -1,0 +1,42 @@
+#!/bin/dash
+
+if [ $# -ne 1 ]
+then
+	echo 'error: 2 arguments needed.'
+	exit 0
+fi
+
+if [ -z `echo $1|egrep '[0-9]*:[a-zA-Z0-9.-_]+'` ]    #no matching
+then
+	echo 'error'
+	exit 0
+fi
+
+version=`echo $1|cut -d: -f1`
+file=`echo $1|cut -d: -f2`
+
+if [ -z "$version" ]  # string length is 0
+then
+	if ! [ -e .legit/index/"$file" ]
+	then
+		echo 'legit-show: error: '\'$file\'' not found in index'
+		exit 0
+	else
+		cat .legit/index/"$file"
+		exit 0
+	fi
+fi
+
+if ! [ -e .legit/"$version" ]
+then
+	echo 'legit-show: error: unknown commit '\'$version\'''
+	exit 0
+fi
+if ! [ -e .legit/"$version"/"$file" ]
+then
+	echo 'legit-show: error: '\'$file\'' not found in commit '$version''
+	exit 0
+fi
+
+cat '.legit/'$version'/'$file''
+

@@ -1,0 +1,225 @@
+#!/bin/dash
+
+# if trigger_add, then record 1 in .legit/.add
+trigger_add(){	
+	if ! [ -e .legit/.add ]
+		then
+			touch .legit/.add
+	fi
+	echo 1 > .legit/.add
+}
+#rm file in current directory
+rm_current(){
+	if [ -e "$1" ]
+	then
+		rm "$1"
+		trigger_add
+	fi
+}
+#rm file in index
+rm_index(){
+	if [ -e .legit/index/"$1" ]
+	then
+		rm .legit/index/"$1"
+		trigger_add
+	fi
+}
+#check 2 file different (think file 1 always exists by default)
+check_diff(){
+	#1 exist 2 not exist || 1 exist 2 exist but diff
+	if ! [ -e "$2" ]
+	then
+		return 1
+	else
+		diff "$1" "$2" > /dev/null
+		if [ $? = 1 ] #if different
+		then
+			return 1
+		else
+			return 0
+		fi
+	fi
+}
+#legit-rm: error: 'b' is not in the legit repository
+not_in_legit(){
+	if ! [ -e "$1" ]
+	then
+		return
+	fi
+	# num of newest log/repository
+	if ! [ -s '.legit/.log' ]
+	then
+		num=-1		#no repository yet
+	else
+		num=`cat '.legit/.log'|tail -1| cut -d' ' -f1` 		#the newest log
+	fi
+	# judge
+	check_diff "$1" .legit/index/"$1"
+	if [ $? -eq 1 ] #diff
+	then
+		check_diff "$1" .legit/"$null"/"$1"
+		if [ $? -eq 1 ] #if different
+		then
+			if [ -e .legit/index/"$1" ] # index and repo must be diff
+			then
+				check_diff .legit/index/"$1" .legit/"$num"/"$1"
+				if [ $? -eq 1 ] #diff
+				then
+					return
+				fi
+			else
+				echo 'legit-rm: error: '\'$1\'' is not in the legit repository'
+				exit 0
+			fi
+		fi
+	fi
+}
+#legit-rm: error: 'b' has changes staged in the index.
+changes_staged_index(){
+	if ! [ -e "$1" ]
+	then
+		return
+	fi
+	# num of newest log/repository
+	if ! [ -s '.legit/.log' ]
+	then
+		num=-1		#no repository yet
+	else
+		num=`cat '.legit/.log'|tail -1| cut -d' ' -f1` 		#the newest log
+	fi
+	
+	check_diff "$1" .legit/index/"$1"
+	if [ $? -eq 0 ] #if same
+	then
+		check_diff "$1" .legit/"$num"/"$1"
+		if [ $? -eq 1 ]
+		then
+			echo 'legit-rm: error: '\'$file\'' has changes staged in the index'
+			exit 0
+		fi
+	fi
+}
+#legit-rm: error: 'a' in repository is different to working file.
+diffto_workngfile(){
+	if ! [ -e .legit/index/"$1" ]
+	then
+		return
+	fi
+	# num of newest log/repository
+	if ! [ -s '.legit/.log' ]
+	then
+		num=-1		#no repository yet
+	else
+		num=`cat '.legit/.log'|tail -1| cut -d' ' -f1` 		#the newest log
+	fi
+	
+	check_diff .legit/index/"$1" .legit/"$num"/"$1"
+	if [ $? -eq 0 ] #same
+	then
+		check_diff .legit/index/"$1" "$1"
+		if [ $? -eq 1 ] #different
+		then
+			echo 'legit-rm: error: '\'$1\'' in repository is different to working file'
+			exit 0
+		fi
+	fi
+}
+#'a' in index is different to both working file and repository'
+diff_to_both(){
+	if ! [ -e .legit/index/"$1" ]
+	then
+		return
+	fi
+	# num of newest log/repository
+	if ! [ -s '.legit/.log' ]
+	then
+		num=-1		#no repository yet
+	else
+		num=`cat '.legit/.log'|tail -1| cut -d' ' -f1` 		#the newest log
+	fi
+	
+	check_diff .legit/index/"$1" "$1"
+	if [ $? -eq 1 ] #diff
+	then
+		check_diff .legit/index/"$1" .legit/"$num"/"$1"
+		if [ $? -eq 1 ] #diff
+		then
+			echo 'legit-rm: error: '\'$1\'' in index is different to both working file and repository'
+			exit 0
+		fi
+	fi
+}
+check_force(){
+	if ! [ -e "$1" ]
+	then
+		return
+	fi
+	# num of newest log/repository
+	if ! [ -s '.legit/.log' ]
+	then
+		num=-1		#no repository yet
+	else
+		num=`cat '.legit/.log'|tail -1| cut -d' ' -f1` 		#the newest log
+	fi
+	
+	if ! [ -e .legit/index/"$1" ]
+	then
+		check_diff "$1" .legit/"$num"/"$1"
+		if [ $? -eq 1 ] #diff
+		then
+			echo 'legit-rm: error: '\'$1\'' is not in the legit repository'
+			exit 0
+		fi
+	fi
+}
+#legit-rm filename
+if [ $1 != '--cached' -a $1 != '--force' ]
+then
+	for file in $@
+	do
+		not_in_legit "$file"
+		changes_staged_index "$file"
+		diffto_workngfile "$file"
+		diff_to_both "$file"
+	done
+	rm_current "$file"
+	rm_index "$file"
+#legit-rm -cached/-force filename
+elif [ "$1" = '--cached' ]
+then
+	for file in $@
+	do
+		if [ "$file" != '--cached' ]
+		then
+			not_in_legit "$file"
+			#changes_staged_index .legit/index/"$file"
+			#diffto_workngfile .legit/index/"$file"
+			diff_to_both "$file"
+		fi
+		rm_index $file
+	done
+elif [ "$1" = '--force' ]
+then
+	if [ "$2" = '--cached' ]
+	then
+		for file in $@
+		do
+			if [ "$file" != '--force' -a "$file" != '--cached' ]
+			then
+				#rm_current $file
+				rm_index $file
+				exit 0
+			fi
+		done
+	fi
+	for file in $@
+	do
+		if [ "$file" != '--force' ]
+		then
+			check_force "$file"
+			rm_current $file
+			rm_index $file
+		fi
+	done
+fi
+	

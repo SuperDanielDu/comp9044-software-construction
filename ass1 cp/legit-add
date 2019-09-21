@@ -1,0 +1,66 @@
+#!/bin/dash
+
+# if trigger_add, then record 1 in .legit/.add
+trigger_add(){	
+	if ! [ -e .legit/.add ]
+		then
+			touch .legit/.add
+	fi
+	echo 1 > .legit/.add
+}
+
+# if no .legit directory
+if ! [ -e '.legit' ]
+then
+	echo "$0: error: no .legit directory containing legit repository exists"
+	exit 0
+fi
+# if no index then create an index
+if ! [ -e '.legit/index' ]
+then
+	mkdir '.legit/index'
+fi
+#if file not in root_dire and not in index, raise 'error'
+for file in $@
+do
+if ! [ -e "$file" ]
+then
+	if ! [ -e .legit/index/"$file" ]
+	then
+		echo ''$0': error: can not open '\'$file\'''
+		exit 0
+	fi
+fi
+done
+
+
+for file in $@
+do
+	#if file in root_dire
+	if [ -e "$file" ]
+	then
+		#if file not in index trigger add
+		if ! [ -e .legit/index/"$file" ]
+		then
+			`cp -rf "$file" '.legit/index'`
+			trigger_add
+		#if file in index but different trigger add
+		elif [ -e .legit/index/"$file" ]
+		then
+			diff "$file" .legit/index/"$file" >/dev/null
+			if [ $? != 0 ]
+			then
+				`cp -rf "$file" '.legit/index'`
+				trigger_add
+			fi
+		fi
+	fi
+	if ! [ -e "$file" ]
+	then
+		if [ -e .legit/index/"$file" ]
+		then
+			trigger_add
+		fi
+	fi
+done
+

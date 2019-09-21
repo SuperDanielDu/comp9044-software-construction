@@ -1,0 +1,93 @@
+#!/usr/bin/perl -w
+use File::Compare;
+use File::Copy;
+if (-z ".legit/.log"){
+	print "commited first\n";
+	exit;
+}
+#get newest commit
+open IN,'<','.legit/.log' or die "cant open .log" ;
+@list= (<IN>);
+close IN;
+#$num=pop @list;
+$num=scalar @list;
+$num=$num-1;
+#create master branch
+if (!-e ".legit/branch/master"){
+	mkdir ".legit/branch/master";
+	for $file (glob "*"){
+		if (-f $file){
+			copy($file, ".legit/branch/master/$file");
+		}
+	}
+}
+#if .current_file not exists then create it and record master as current branch
+unless (-e ".legit/.current"){
+	open OUT,'>','.legit/.current' or die "cant open .current";
+	print OUT "master";
+	close OUT;
+}
+#get current_branch
+open IN,'<','.legit/.current' or die "cant open .current";
+$current_branch=<IN>;
+chomp $current_branch;
+close IN;
+#if already on current branch
+if ($current_branch eq $ARGV[0]){
+	print "Already on '$ARGV[0]'\n";
+	exit;
+}
+#if branch not exists
+if (!-e ".legit/branch/$ARGV[0]"){
+	print "legit-checkout: error: unknown branch '$ARGV[0]'\n";
+	exit;
+}
+#if file in working file not in newest commit file          ??????????
+#for $file (glob "*"){
+#	if (compare($file,".legit/$current_branch/$file")!=0){
+#		print "legit-checkout: error: Your changes to the following files would be overwritten by checkout:\n$file\n";
+#		exit;
+#	}
+#}
+
+#copy all the file in working_dire to its own branch
+	#first delete all file in its own branch
+#for $file (glob ".legit/branch/$current_branch/*"){
+#	if (-f $file){
+#		unlink $file;
+#	}
+#}
+	#then copy 
+#for $file (glob "*"){
+#	if (-f $file){
+		#print"$file,  $num\n";
+#		copy($file,".legit/branch/$current_branch/$file");
+#	}
+#}
+#$ARGV[0]=dest  .legit/branch/$current_branch=working_branch  
+#delete file in working_file
+for $file (glob "*"){
+	#delete commited file(file not legits-)
+	#if (compare($file,.legit/branch/$current_branch/)==0){}
+	if (-f $file && $file!~m/^legit-/ && compare($file,".legit/branch/$current_branch/$file")==0){
+		unlink $file;
+	}
+}
+#copy file in branch to working_dire
+for $file (glob ".legit/branch/$ARGV[0]/*"){
+	if(-f $file){
+		$current_file=$file=~s|.*\/.*\/||r;
+		#file not legits
+		if ($current_file!~m/^legit-/){
+			#file not exists
+			if (!-e $current_file){
+			#print "$file\n$current_file\n";
+				copy("$file","$current_file");
+			}
+		}
+	}
+}
+print "Switched to branch '$ARGV[0]'\n";
+open OUT,'>','.legit/.current' or die "cant open .current";
+print OUT "$ARGV[0]";
+close OUT;

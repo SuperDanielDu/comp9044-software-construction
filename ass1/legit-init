@@ -1,0 +1,16 @@
+#!/bin/dash
+
+if [ "$#" -ne 0 ]
+then
+	echo "usage: legit-init"
+	exit 0;
+else
+	if [ -e '.legit' ]
+	then
+		echo 'legit-init: error: .legit already exists'
+		exit 0
+	else
+		mkdir '.legit'
+		echo 'Initialized empty legit repository in .legit'
+	fi
+fi

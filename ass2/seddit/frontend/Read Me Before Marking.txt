@@ -1,0 +1,7 @@
+The following Youtube link is the instruction video for this assignment.Please watch it to understand the functionality.
+
+https://youtu.be/Re3maEp-wms
+
+update: add search functionality
+After login, input word in search, press enter, get result.
+If wanna go back to feed page, input nothing, press enter, then get feed page. 

@@ -1,0 +1,621 @@
+
+body#home {
+	background-color:	#433f3b;
+	color:				#231f20;
+}
+
+div#pageWrapper {
+	background:			none;
+}
+
+/* Lightbox */
+div#overlay {
+	background-color:	#000000;
+}
+
+div#lightbox {
+}
+
+div#lightbox div#lightboxWrapper {
+	background:			#ffffff;
+	border:				10px solid #dbdbdb;
+}
+
+div#lightbox div#lightboxHeader div#closeBar {
+	background:			#231f20;
+}
+
+div#lightbox div#lightboxHeader h1 {
+	border-bottom:		10px solid #ffe600;
+}
+
+div#lightbox div#lightboxHeader div#headerBar {
+	background:			#000000;
+}
+
+div#lightbox div#lightboxContent form input.button {
+	background:			url('/images/2018/formButton.gif') repeat-x;
+	color:				#231f20;
+	border:				1px solid #7b7b7b;
+}
+
+/* Header */
+div#headerWrapper {
+	background:			#ffffff;
+}
+
+div#header {
+	border-bottom:		10px solid #ffe600;
+}
+
+/* Removed rhs vertical line next to logo
+div#header div#unsw a {
+	border-right:		2px solid #888888;
+}
+*/
+
+/* Content Form Styles */
+div#contentWrapper {
+	background:			#ffffff;
+}
+
+/* Admin Bar */
+div#content div#navigationBar {
+	background:			url('/images/2018/navigationOff.gif') #231f20;
+	color:				#fefefe;
+}
+
+div#content div#navigationBar div.left ul#actions li {
+	border-right:		1px solid #a7a5a6;
+}
+
+
+div#content div#navigationBar div.left ul#actions li:last-child {
+	border-right:		none;
+}
+
+div#content div#navigationBar div.left ul#actions li a {
+	color:				#ffffff;
+}
+
+div#content div#navigationBar div.left ul#actions li.on,
+div#content div#navigationBar div.left ul#actions li:hover,
+div#content div#navigationBar div.left ul#actions li:active {
+	background:			#3a97d9;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second {
+	background:			#eeecea;
+	color:				#000000;
+	border:				1px solid #141b20;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second li {
+	border-right:		none;
+	border-bottom:		1px solid #dbdbd9;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second li a {
+	color:				#1a1818;
+}
+
+div#content div#navigationBar div.left ul#actions li ul.second li.on,
+div#content div#navigationBar div.left ul#actions li ul.second li:hover,
+div#content div#navigationBar div.left ul#actions li ul.second li:active {
+	background-color:			#8dcaf4;
+}
+
+div#content div#navigationBar div.right p.help {
+	border-left:				1px solid #9b9b9b;
+}
+
+/* Handbook Header */
+div#content div#handbookHeader {
+	background-color:			#e3f3ff;
+}
+
+div#contentWrapper div#content div#handbookHeader.homeHeader {
+	background-image:			url('/images/2018/logos/handbookLogoHome.jpg');
+	background-repeat:			no-repeat;
+}
+
+div#contentWrapper.ug div#content div#handbookHeader {
+	background-image:			url('/images/2018/logos/handbookLogoUG.png');
+	background-repeat:			no-repeat;
+}
+
+div#contentWrapper.pg div#content div#handbookHeader {
+	background-image:			url('/images/2018/logos/handbookLogoPG.png');
+	background-repeat:			no-repeat;
+}
+
+div#contentWrapper.pgr div#content div#handbookHeader {
+	background-image:			url('/images/2018/logos/handbookLogoPGR.png');
+	background-repeat:			no-repeat;
+}
+
+div#contentWrapper.na div#content div#handbookHeader {
+	background-image:			url('/images/2018/logos/handbookLogoNA.png');
+	background-repeat:			no-repeat;
+}
+div#contentWrapper.gen div#content div#handbookHeader {
+	background-image:			url('/images/2018/logos/handbookLogoGEN.png');
+	background-repeat:			no-repeat;
+}
+
+
+/* Content Pane */
+div#content div#contentPane {
+	
+}
+
+div#content div#contentPane div.column.content-col div.contentColWrapper {
+	background:						url('/images/2018/mainContentBackground.png') repeat-x #ffffff;
+	border:							1px solid #a9a9a9;
+	border-top-right-radius:		6px 6px;
+	border-bottom-right-radius:		6px 6px;
+}
+
+
+/* Side Navigation */
+div#content div#contentPane div.sideNavWrapper div.sideNav h5 {
+	border-top:					1px solid #c8c8c8;
+	border-left:				1px solid #c8c8c8;
+	border-right:				1px solid #c8c8c8;
+	background: url("/images/2018/navigationSideOff.png") 0 1px repeat-x;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul {
+	border-top:					1px solid #c8c8c8;
+	border-left:				1px solid #c8c8c8;
+	border-right:				1px solid #c8c8c8;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li {
+	background:					url('/images/2018/navigationSideOff.png') 0 1px repeat-x;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li a {
+	color:						#000000;
+}
+
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li.on a,
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li a:hover,
+div#content div#contentPane div.sideNavWrapper div.sideNav ul li a:active {
+	background:					#8bc9f5;
+}
+
+
+/* Info Boxes */
+div#content div#contentPane div.infoBox div.infoBoxHeader {
+	border-top:						1px solid #dae3ea;
+	border-left:					1px solid #dae3ea;
+	border-right:					1px solid #dae3ea;
+	border-top-right-radius:		6px 6px;
+}
+
+div#content div#contentPane.internalContent div.infoBox div.infoBoxHeader.blue {
+	border-top-left-radius:			6px 6px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader.yellow {
+	background-color:				#ffe600;
+	border-bottom:					4px solid #000000;
+}
+
+div#content div#contentPane div.column.small-col div.infoBox div.infoBoxHeader.yellow {
+	border-bottom:					2px solid #000000;
+	border-top:						1px solid #7d7a7a;
+	border-left:					1px solid #7d7a7a;
+	border-right:					1px solid #7d7a7a;
+}
+
+div#content div#contentPane.homeContent div.infoBox div.infoBoxHeader.blue {
+	border-top:						1px solid #8f8973;
+	border-left:					1px solid #8f8973;
+	border-right:					1px solid #8f8973;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader.blue {
+	border-bottom:					1px solid #f3fafe;
+	background:						url('/images/2018/searchBackgroundHeader.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader.leaf {
+	background-image:				url('/images/2018/infoBoxLeaf.png');
+	background-position:			12px 0;
+	background-repeat:				no-repeat;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxHeader.blue.leaves {
+	background:						url('/images/2018/contentLeavesHeader.png') no-repeat #ceeaff;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent {
+	border-left:					2px solid #8f9091;
+	border-right:					2px solid #8f9091;
+	border-bottom:					2px solid #8f9091;
+	background:						url('/images/2018/quickLinksBackground.png') repeat-x;
+}
+
+div#content div#contentPane div.column.small-col div.infoBox div.infoBoxContent {
+	border-width:					1px;
+	border-bottom-right-radius:		6px 6px;
+}
+
+div#content div#contentPane div.column.small-col div.infoBoxGeneric {
+	border-width: 1px; border: 2px solid #8F9091; background-color: #E0F1FD;
+}
+
+div#content div#contentPane div.column.small-col div.infoBoxGeneric h3 {
+	color: #277F85;
+}
+
+/* Generic Box */
+div#content div#contentPane div.genericBox {
+	border-top-left-radius:			6px 6px;
+	border-top-right-radius:		6px 6px;
+	border-bottom-left-radius:		6px 6px;
+	border-bottom-right-radius:		6px 6px;
+	border:							1px solid;
+}
+
+div#content div#contentPane div.genericBox.blue {
+	border-color:					#4d6893;
+	background:						#def2ff;
+}
+
+div#content div#contentPane div.genericBox.purple {
+	border-color:					#814b91;
+	background:						#f1eff6;
+}
+
+div#content div#contentPane div.genericBox.directFindBox h4 {
+	border-bottom:					1px solid #696a6b;
+	color: #000;
+}
+
+div#content div#contentPane div.genericBox.directFindBox div.search {
+	background:						url('/images/2018/searchBoxBackground.png') no-repeat;
+}
+
+div#content div#contentPane div.genericBox.directFindBox div.search input.text {
+	border:							1px solid #acacac;
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.lhs_links ul {
+	border-top:						1px solid #929294;
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.lhs_links ul li {
+	border-bottom:					1px solid #929294;
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.lhs_links ul li a {
+	color:							#000000;
+	background-color:				none;
+	background-image:				url('/images/2018/icons/arrowBlack.png');
+	background-repeat:				no-repeat;
+	background-position:			170px 7px;
+}
+
+div#content div#contentPane div.genericBox.generalEducationBox div.lhs_links ul li a:hover,
+div#content div#contentPane div.genericBox.generalEducationBox div.lhs_links ul li a:active {
+	background-color:				#cea9cd;
+	background-image:				url('/images/2018/icons/arrowPurple.png');
+}
+
+/* Handbook Search form */
+div#content div#contentPane div.infoBox div.infoBoxContent.searchBoxContent {
+	border-left:			1px solid #dae3ea;
+	border-right:			1px solid #dae3ea;
+	border-bottom:			1px solid #dae3ea;
+	background:				url('/images/2018/searchBackground.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent.searchBoxContent.leaves div.searchBoxWrapper {
+	background:				url('/images/2018/contentLeavesBody.png') no-repeat;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox {
+	border:					2px solid #b7d8f1;
+	background:				#e6f3ff;
+}
+
+div#content div#contentPane.internalContent div.infoBox div.searchBoxContent {
+	border-bottom-left-radius:		6px 6px;
+	border-bottom-right-radius:		6px 6px;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox input.text,
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox select {
+	border:					1px solid #727272;
+	background:				url('/images/2018/inputBackground2.gif') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.searchBox select option {
+	background:				#FFFFFF;
+}
+
+div#content div#contentPane.homeContent div.infoBox div.infoBoxContent.searchBoxContent {
+	border-color:			#8f9091;
+}
+
+/* 4 Home study choice boxes*/
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBoxTop {
+	border-bottom:			2px solid #8f9091;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover {
+	cursor:					hand;
+	cursor:					pointer;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.odd {
+	border-right:			2px solid #8f9091;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.orange {
+	background:				url('/images/2018/home/studyBoxOrangeOff.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.orange {
+	background:				url('/images/2018/home/studyBoxOrangeOn.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.green {
+	background:				url('/images/2018/home/studyBoxGreenOff.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.green {
+	background:				url('/images/2018/home/studyBoxGreenOn.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.purple {
+	background:				url('/images/2018/home/studyBoxPurpleOff.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.purple {
+	background:				url('/images/2018/home/studyBoxPurpleOn.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.blue {
+	background:				url('/images/2018/home/studyBoxBlueOff.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.blue {
+	background:				url('/images/2018/home/studyBoxBlueOn.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox div.arrow {
+	background:				url('/images/2018/home/studyBoxButtonGrey.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.orange div.arrow {
+	background:				url('/images/2018/home/studyBoxButtonOrange.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.green div.arrow {
+	background:				url('/images/2018/home/studyBoxButtonGreen.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.purple div.arrow {
+	background:				url('/images/2018/home/studyBoxButtonPurple.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox:hover.blue div.arrow {
+	background:				url('/images/2018/home/studyBoxButtonBlue.png') repeat-x;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox a {
+	color:					#000000;
+	text-decoration:		none;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.orange h2 {
+	color:					#f46608;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.green h2 {
+	color:					#007d4c;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.purple h2 {
+	color:					#8e4499;
+}
+
+div#content div#contentPane div.infoBox div.infoBoxContent div.studyBox.blue h2 {
+	color:					#067370;
+}
+
+/* Quick Links Home */
+div#content div#contentPane div.infoBox div.infoBoxContent div.quickLinksBox {
+	
+}
+
+/* Content Pane Home */
+div#content div#contentPane.homeContent {
+	background:			url('/images/2018/homeBackground.png') #a9d9fd no-repeat;
+}
+
+/* Content Pane Internal */
+div#content div#contentPane.internalContent {
+	background:			#ffffff;
+}
+
+/* Internal Content Styles*/
+div#content div#contentPane div.content-col div.internalContentWrapper {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	color:				#000000;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h4 {
+	color:				#000000;
+}
+
+div#contentWrapper.ug div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#contentWrapper.ug div#content div#contentPane div.content-col-generic div.internalContentWrapper h1  {
+	color:				#E94C00;
+}
+div#contentWrapper.ug div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#contentWrapper.ug div#content div#contentPane div.content-col-generic div.internalContentWrapper h4  {
+	color:				#E94C00;
+}
+
+div#contentWrapper.pg div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#contentWrapper.pg div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	color:				#367716;
+}
+
+div#contentWrapper.pg div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#contentWrapper.pg div#content div#contentPane div.content-col-generic div.internalContentWrapper h4 {
+	color:				#367716;
+}
+
+div#contentWrapper.pgr div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#contentWrapper.pgr div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	color:				#773E77;
+}
+div#contentWrapper.pgr div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#contentWrapper.pgr div#content div#contentPane div.content-col-generic div.internalContentWrapper h4 {
+	color:				#773E77;
+}
+
+div#contentWrapper.na div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#contentWrapper.na div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	color:				#277F85;
+}
+
+div#contentWrapper.na div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#contentWrapper.na div#content div#contentPane div.content-col-generic div.internalContentWrapper h4 {
+	color:				#277F85;
+}
+
+div#contentWrapper.gen div#content div#contentPane div.content-col div.internalContentWrapper h1,
+div#contentWrapper.gen div#content div#contentPane div.content-col-generic div.internalContentWrapper h1 {
+	color:				#277F85;
+}
+
+div#contentWrapper.gen div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#contentWrapper.gen div#content div#contentPane div.content-col-generic div.internalContentWrapper h4 {
+	color:				#277F85;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h2,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h2,
+div#content div#contentPane.internalContent div.column div.internalContentWrapper a span.headBlue {
+	color:				#6699CC;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h3,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h3 {
+	color:				#000000;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper h4,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper h4 {
+	color:				#367716;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper p {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper ul,
+div#content div#contentPane div.content-col div.internalContentWrapper ol {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper ul li,
+div#content div#contentPane div.content-col div.internalContentWrapper ol li {
+	
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper a,
+div#content div#contentPane div.content-col div.internalContentWrapper a:visited,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper a,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper a:visited {
+	color:				#274F92;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper a:hover,
+div#content div#contentPane div.content-col div.internalContentWrapper a:active,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper a:hover,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper a:active {
+	color:				#000000;
+}
+
+div#content div#contentPane div.content-col div.internalContentWrapper div.summary,
+div#content div#contentPane div.content-col-generic div.internalContentWrapper div.summary {
+	border:							1px solid #adcbf5;
+	background:						#ebf1f8;
+	border-top-left-radius:			10px 10px;
+	border-top-right-radius:		10px 10px;
+	border-bottom-left-radius:		10px 10px;
+	border-bottom-right-radius:		10px 10px;
+}
+
+/* Right Column Styles*/
+div#contentWrapper div#content div#contentPane div.small-col div.imgBox img {
+	border:			1px solid #8F9091;
+}
+
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList li a,
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList li a:visited {
+	color:				#274F92;
+}
+
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList li a:hover,
+div#contentWrapper div#content div#contentPane div.small-col ul.linkList li a:active {
+	color:				#000000;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.links ul.strong li a:link, a:visited{
+	color: #274F92;
+}
+
+div#contentWrapper div#content div#contentPane div.nav-col div.genericContentBox div.links ul.strong li a:hover{
+	color: #000000;
+}
+
+/* Footer */
+div#footerWrapper {
+	border-bottom:		7px solid #ffe600;
+	background:			#231f20;
+}
+
+div#footer div#boilerPlate {
+	color:				#6F6F6F;
+}
+
+div#footer div#links {
+	color:				#6F6F6F;
+}
+
+div#footer div#links a, div#footer div#links a:visited {
+	color:				#ffe600;
+}
+
+div#footer div#links a:hover {
+	color:				#ffffff;
+}
+
+#Prog, #Plan, #Crse, #Spec, #tltip, #tltip2, #tltip1 {
+    border-bottom: 1px dotted #008EC5;
+    cursor: help;
+}
+
+a.acrp:link, a.acrp:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a.acrp:hover {
+    color: green;
+    text-decoration: none;
+}

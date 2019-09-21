@@ -1,0 +1,94 @@
+#!/bin/dash
+
+if ! [ -e '.legit/.add' ]
+then
+	echo 0 > '.legit/.add'
+fi
+#judge command = -m
+if [ "$1" = '-m' ]
+then
+	if [ $# -ne 2 ]
+	then
+		echo '2 arguments needed'
+		exit 0
+	fi
+fi
+#judge command = -a -m
+if [ "$1" = '-a' ]
+then
+	if [ $# -ne 3 ]
+	then 
+		echo '3 arguments needed'
+		exit 0
+	fi
+	#add new version into index advancely
+	for file in .legit/index/*
+	do
+		file=`echo "$file"|cut -d/ -f3`
+		`legit-add "$file"`
+	done
+fi
+
+#judge add
+if [ `cat .legit/.add` -eq 0 ]    #no add before
+then
+	echo "nothing to commit"
+	exit 0;
+fi
+echo 0 > .legit/.add
+
+#create .log
+if ! [ -e '.legit/.log' ]
+then
+	#create .log.txt to record commit
+	touch '.legit/.log'
+fi
+#num of new log/repository
+if ! [ -s '.legit/.log' ]
+then
+	num=-1
+else
+	num=`cat '.legit/.log'|tail -1| cut -d' ' -f1`
+fi
+
+current='master'
+if [ -e ".legit/.current" ]
+then
+	current=`cat ".legit/.current"`
+else
+	echo 'master' >".legit/.current"
+	current='master'
+fi
+
+if ! [ -e ".legit/branch" ]
+then
+	mkdir ".legit/branch"
+fi
+if ! [ -e ".legit/branch/master" ]
+then
+	mkdir ".legit/branch/master"
+fi
+
+
+num=`expr "$num" + 1`
+mkdir '.legit/'$num''
+record=''$num' '$2''
+echo "$record" >> '.legit/.log'
+echo 'Committed as commit '$num''
+if [ "`ls -A .legit/index`" != '' ]
+then
+	`cp .legit/index/* .legit/"$num"/`
+	if [ "`ls -A .legit/branch/"$current"`" != '' ]
+	then
+		rm .legit/branch/"$current"/*
+	fi
+	`cp .legit/index/* .legit/branch/"$current"/`
+fi
+if [ "`ls -A .legit/index`" = '' ]
+then
+	if [ "`ls -A .legit/branch/"$current"`" != '' ]
+	then
+		rm .legit/branch/"$current"/*
+	fi	
+fi
+

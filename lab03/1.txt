@@ -1,0 +1,680 @@
+{{Use dmy dates|date=January 2015}}
+{{Use Australian English|date=July 2011}}
+{{Infobox award 
+| name           = Triple J Hottest 100
+| current_awards = Triple J Hottest 100, 2018
+| image          = Triple J Logo.png
+| caption        = ''"The world's greatest music democracy"''
+| date		 = 27 January
+| description    = The year's top 100 songs as voted in a music listener poll
+| presenter      = [[Triple J]]
+| country        = {{AUS}}
+| network        = [[Triple J]] (1989–present)
+| year           = {{start date and age|1989|3|5}} (as Hot 100)
+| website        = [https://www.abc.net.au/triplej/hottest100/18/ ABC Triple J Hottest 100]
+}}
+
+The '''Triple J Hottest 100''' is an annual music listener poll hosted by the government-funded, national [[Australia]]n radio station, [[Triple J]]. The public is invited to vote for their favourite [[Music of Australia|Australian]] and [[Alternative Music|alternative music]] of the year, in an online poll conducted two weeks prior to the new year.<ref>{{Cite web|url=http://www.abc.net.au/triplej/hottest100/archive/|title=Overview {{!}} Hottest 100 Archive {{!}} triple j|date=2017-11-11|website=www.abc.net.au|language=en-AU|access-date=2018-04-15}}</ref><ref>{{cite web|url=http://www.parliament.vic.gov.au/edic/inquiries/Broadcast/EDCMay99-129.htm|title=Chapter 10: Youth Music|publisher=[[Government of Victoria (Australia)|Victorian Government]]|archiveurl=https://web.archive.org/web/20141021012939/http://www.parliament.vic.gov.au/edic/inquiries/Broadcast/EDCMay99-129.htm|archivedate=21 October 2014|deadurl=yes|accessdate=27 July 2009|df=dmy-all}}</ref> Since its inception in 1989, the 100 most popular songs were counted down from 12pm on [[Australia Day]].<ref name="ABCJ">{{cite web|url=http://www.abc.net.au/triplej/hottest100/archive/default.htm|title=Hottest 100 Archive|publisher=ABC|accessdate=18 March 2016}}</ref> From 2018 however, the countdown has been held on the fourth weekend of January due to opposition to Australia Day's celebratory commemoration of [[History of Australia (1788–1850)|British colonisation]].<ref>{{cite web|url=http://www.abc.net.au/triplej/news/musicnews/h100-survey/8764540|title=How do you feel about the date of the Hottest 100?|date=2 August 2017|publisher=ABC|accessdate=5 August 2017}}</ref> On the day after the Hottest 100, Triple J plays the Hottest 200 ('the songs that didn't quite make it') from 10am.<ref>http://www.abc.net.au/triplej/news/musicnews/triple-j-hottest-100-is-moving-to-a-new-date-and-heres-why/9197254</ref>
+
+The poll has grown from 500,000 votes in 2004 to 2.75 million in 2019, and has subsequently been referred to as "the world's greatest music democracy",<ref>{{Cite news|url=http://www.abc.net.au/triplej/news/musicnews/this-years-hottest-100-is-record-breaking-year/9350308|title=This year's Hottest 100 has set a new voting record!|date=2018-01-23|work=triple j|access-date=2018-04-15|others=words by triple j|language=en}}</ref><ref>{{cite web|url=https://www.broadsheet.com.au/national/entertainment/article/triple-j-hottest-100-may-move-australia-day|title=Triple J Hottest 100 May Move From Australia Day|website=Broadsheet|access-date=2017-06-07}}</ref> and inspired a retrospective podcast.<ref>{{Cite news|url=http://themusic.com.au/news/all/2016/05/24/meet-the-brave-guys-reviewing-every-single-hottest-100-song-year-by-year/|title=Meet The Brave Guys Reviewing Every Single Hottest 100 Song Year By Year|date=2016-05-24|work=The Music|access-date=2018-05-23|others=words by Uppy Chatterjee|language=en}}</ref> Following the completion of each year's countdown, a compilation CD featuring highlight tracks is released by [[ABC Music]].<ref>{{Cite web|url=https://www.abcmusic.com.au/|title=ABC Music|website=ABC Music|access-date=2016-02-01}}</ref> [[Ocean Alley]]'s "[[Confidence (Ocean Alley song)|Confidence]]" is the most recent song to top the Hottest 100.<ref>{{cite web|url=http://www.abc.net.au/triplej/news/musicnews/hottest-100-kendrick-lamar-humble-feature/9366884|title=Sit Down, Be HUMBLE.: Deconstructing Kendrick Lamar's Hottest 100 #1 song|last=Newstead|first=Al|date=27 January 2018|work=Triple J Music News|accessdate=27 January 2018}}</ref>
+
+==History==
+===1988–1991: The Hot 100===
+The idea for the poll came from Triple J producer Lawrie Zion in late 1988.<ref>[http://www.abc.net.au/triplej/30years/audio/hot100_1989.mp3 How Hottest 100 started (mp3)]</ref> During this time, he conceived the idea of running a listener poll to determine their 100 favourite songs of all time.<ref name="ABCJ"/> The idea was allegedly stolen from [[Brisbane]] community radio station [[4zzz]], which developed the original Hot 100 in 1976.{{cn|date=January 2019}}
+
+For the Hot 100, before Triple J had become a national broadcaster, Sydney listeners were required to write their 10 favourite tracks on the back of an envelope.<ref name="ABCJ"/> Some entries were sent into the station written on a variety of items, including paintings, sculptures, and hand-rolled cannabis cigarettes.{{Citation needed|date=July 2018}} The results of the first poll were counted down on Sunday 5 March 1989 between 10am and 6pm.
+
+The station repeated the event the following year when it started broadcasting to other capital cities besides Sydney. In 1991, Triple J was forced to change the poll's name to 'Hottest 100' to avoid legal action with 4zzz.
+
+During the poll's first few years — from 1989 to 1991 — the winner in the first two years was "[[Love Will Tear Us Apart]]" by [[Joy Division]],<ref name="ABCJ"/> while 1991's favourite song was "[[Smells Like Teen Spirit]]" by [[Nirvana (band)|Nirvana]],<ref name="ABCJ"/> which had been released that year.
+
+===1992–1995: The Hottest 100===
+Realising that the poll's results were unlikely to significantly change from year to year, Triple J rested the Hottest 100 in 1992 and relaunched it as an annual poll the following year. The newly launched poll required listeners to vote for their favourite songs of that year. Denis Leary's comedy anthem "Asshole" was voted number 1 in .<ref name="ABCJ"/>
+
+The inaugural Hottest 100 compilation CD, ''Triple J Hottest 100 (The Hottest Of The Hottest)'', was released by [[ABC Music]] in 1994. [[Denis Leary]]'s "Asshole" was voted in the number-one position in that year, while the radio-edited version of [[Ween]]'s "Push the Little Daisies",<ref>http://www.abc.net.au/triplej/hottest100/history/1993.htm</ref> featuring a sample of musician [[Prince (musician)|Prince]] howling in place of the word "shit", appeared on the CD.<ref>{{cite web|title=Various – Triple J Hottest 100 (The Hottest Of The Hottest) - 1|url=http://www.discogs.com/Various-Triple-J-Hottest-100-The-Hottest-Of-The-Hottest-1/release/396987|website=Various on Discogs|publisher=Discogs|accessdate=21 January 2015|date=2015}}</ref>
+
+===1996–2016: Rise in Australian music ===
+In 1996, [[Spiderbait]] became the first Australian act to reach number 1. Since 1999, Australian acts have made up the majority of the polls.<ref name="abc.net.au">{{cite web |title=History {{!}} Hottest 100 Archive {{!}} triple j |url=http://www.abc.net.au/triplej/hottest100/archive/history/ |website=www.abc.net.au |accessdate=23 July 2018 |language=en-AU |date=11 November 2017}}</ref>
+
+The first Hottest 100 DVD, ''Triple J Hottest 100: The Hottest Videos For 2002'', was released in 2002. [[Queens Of The Stone Age]]'s "No One Knows" was voted into the top position in that year, while [[Grinspoon]], [[Motor Ace]], [[Darren Hanlon]], Machine Translations and [[Ms Dynamite]] were other Hottest 100 artists featured on the release.<ref>{{cite web|title=Various – Triple J Hottest 100 - The Hottest Videos For 2002|url=http://www.discogs.com/Various-Triple-J-Hottest-100-The-Hottest-Videos-For-2002/release/3235437|website=Various on Discogs|publisher=Discogs|accessdate=21 January 2015|date=2015}}</ref>
+
+In 2003, [[Powderfinger]] became the first act to be featured three times in the top 10 poll with "(Baby I've Got You) On My Mind", "Sunsets" and "Love Your Way" placing in the 4th, 7th and 10th places, respectively.<ref>{{cite web|title=hottest 100 2003|url=http://www.abc.net.au/triplej/hottest100_08/history/2003.htm|website=triple j Hottest 100|publisher=ABC|accessdate=26 January 2015|date=2015}}</ref> All three songs appeared on the 2003 ''[[Vulture Street (album)|Vulture Street]]'' full-length studio album, which attained "6 x Platinum" sales in Australia.<ref>{{cite web|title=Australian Record Sales - 2003 Full Year Figures - 12 Months Ending 31 December 2003|url=http://www.aria.com.au/pages/australianrecordsales-2003fullyearfigures.htm|website=ARIA Australian Recording Industry Association|publisher=Australian Recording Industry Association Ltd.|accessdate=26 January 2015|date=2005–2015}}</ref><ref>{{cite web|title=Powderfinger – Vulture Street|url=http://www.discogs.com/Powderfinger-Vulture-Street/master/251585|website=Powderfinger on Discogs|publisher=Discogs|accessdate=26 January 2015|date=2015}}</ref> Powderfinger is also the only Australian artist to reach number 1 twice.<ref name="abc.net.au"/>
+
+After its beginnings as a write-in poll, the Hottest 100 progressed to phone-in voting, which then progressed to SMS and online voting. In 2003, only web votes through the Triple J website were accepted, with registration required and a limit of 10 votes applied. In 2004, the guidelines were expanded so that voters were entitled to 10 internet votes and 10 SMS votes.
+
+In 2014, [[Chet Faker]], whose real name is Nick Murphy, repeated Powderfinger's achievement from 2003 by placing three times in the top 10 positions. Faker reached the number-one spot with "[[Talk Is Cheap (Chet Faker song)|Talk Is Cheap]]" and the 7th and 8th positions, respectively, with "Gold" and "[[1998 (Chet Faker song)|1998]]". All three songs came from Faker's 2014 album ''[[Built On Glass]]''. Chet Faker placed a total of four times in the entire poll, with a [[cover version]] of [[Sonia Dada]]'s "Lover You Don't Treat Me No Good No More" in the 22nd position. The 22nd Hottest 100 poll received a record 2,099,707 million votes, cast by 258,762 voters from 188 countries.<ref name="Chet">{{cite news|url=http://www.smh.com.au/entertainment/music/chet-fakers-talk-is-cheap-wins-triple-j-hottest-100-20150126-12ykg4.html|title=Chet Faker's Talk Is Cheap wins Triple J Hottest 100|date=26 January 2015|accessdate=26 January 2015|publisher=[[The Sydney Morning Herald]]}}</ref>
+
+=== 2017-present: Announcement date change ===
+In 2017, [[Triple J]] announced that they would be holding 2018's Hottest 100 on January 27, instead of the traditional date of January 26. Triple J cited "growing dialogue around Indigenous recognition and perspectives on 26 January.<ref>{{cite web |last1=Donoughue |first1=Paul |title=The Hottest 100 won't be held on Australia Day next year, triple j says |url=http://www.abc.net.au/news/2017-11-27/hottest-100-wont-be-held-on-australia-day-triple-j-says/9197014 |website=ABC News |publisher=ABC |accessdate=23 July 2018}}</ref>
+
+==Hottest 100 top tens and summaries==
+{| class="wikitable" style="vertical-align:top;"
+|-
+! style="vertical-align:middle; text-align:center; width:50px;"|Year
+! width=55%|Top ten
+! Highlights
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1989|All time (1989)]]'''
+|
+#[[Joy Division]] – "[[Love Will Tear Us Apart]]" (1980)
+#[[Hunters & Collectors]] – "[[Throw Your Arms Around Me]]" (1985)
+#[[The The]] – "Uncertain Smile" (1983)
+#[[The Jam]] – "[[That's Entertainment (The Jam song)|That's Entertainment]]" (1980)
+#[[New Order (band)|New Order]] – "[[Blue Monday (New Order song)|Blue Monday]]" (1983)
+#[[Dead Kennedys]] – "[[Holiday in Cambodia]]" (1980)
+#[[The Smiths]] – "[[How Soon Is Now?]]" (1984)
+#Hunters & Collectors – "Talking to a Stranger" (1982)
+#[[The Sugarcubes]] – "[[Birthday (The Sugarcubes song)|Birthday]]" (1987)
+#[[The Cure]] – "[[A Forest]]" (1980)
+|
+*The first of the original series of Hottest 100s, in which songs could be selected from any year.
+*The list included two versions of the song "[[Kiss (Prince song)|Kiss]]". The original by [[Prince (musician)|Prince]] at No. 34 and [[Art of Noise]] and [[Tom Jones (singer)|Tom Jones']] cover at No. 24.
+*[[Elvis Costello]], [[The Cure]], [[Hunters & Collectors]] and [[The Smiths]] all achieved 4 tracks each in the countdown.
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1990|All time (1990)]]'''
+|
+#[[Joy Division]] – "[[Love Will Tear Us Apart]]" (1980)
+#[[Hunters & Collectors]] – "[[Throw Your Arms Around Me]]" (1985)
+#[[The Smiths]] – "[[How Soon Is Now?]]" (1984)
+#[[The The]] – "Uncertain Smile" (1983)
+#[[New Order (band)|New Order]] – "[[Blue Monday (New Order song)|Blue Monday]]" (1983)
+#[[The Stone Roses]] – "[[Fools Gold/What the World Is Waiting For|Fools Gold]]" (1989)
+#The Smiths – "[[This Charming Man]]" (1983)
+#[[The B-52's]] – "[[Rock Lobster]]" (1979)
+#[[R.E.M.]] – "[[It's the End of the World as We Know It (And I Feel Fine)]]" (1987)
+#[[The Jam]] – "[[That's Entertainment (The Jam song)|That's Entertainment]]" (1980)
+|
+*The second of the original series of Hottest 100s which allowed choices from any year.
+*[[The Cure]] achieved seven songs in the list.
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1991|All time (1991)]]'''
+|
+#[[Nirvana (band)|Nirvana]] – "[[Smells Like Teen Spirit]]" (1991)
+#[[Joy Division]] – "[[Love Will Tear Us Apart]]" (1980)
+#Nirvana – "[[Lithium (Nirvana song)|Lithium]]" (1991)
+#[[Hunters & Collectors]] – "[[Throw Your Arms Around Me]]" (1985)
+#[[Andy Prieboy]] – "Tomorrow Wendy" (1990)
+#[[The Smiths]] – "[[How Soon Is Now?]]" (1984)
+#[[The Stone Roses]] – "[[Fools Gold/What the World Is Waiting For|Fools Gold]]" (1989)
+#[[The Cure]] – "[[A Forest]]" (1980)
+#[[Violent Femmes]] – "[[Blister in the Sun]]" (1982)
+#[[New Order (band)|New Order]] – "[[Blue Monday (New Order song)|Blue Monday]]" (1983)
+|
+*The third of the original series of Hottest 100s which allowed choices from any year.
+*[[The Cure]] had nine songs in the 1991 list. Although not a part of the official countdowns, this record remains unbroken as of 2015.
+|- style="text-align:center;
+| style="vertical-align:middle;"|'''1992'''
+| colspan="2"|'''''No Hottest 100 Held'''''
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1993|1993]]'''
+|
+#[[Denis Leary]] – "[[Asshole (song)|Asshole]]"
+#[[Radiohead]] – "[[Creep (Radiohead song)|Creep]]"
+#[[The Cranberries]] – "[[Linger (song)|Linger]]"
+#[[Blind Melon]] – "[[No Rain]]"
+#[[The Breeders]] – "[[Cannonball (The Breeders song)|Cannonball]]"
+#[[Rage Against the Machine]] – "[[Killing in the Name]]"
+#[[U2]] – "[[Lemon (U2 song)|Lemon]]"
+#[[Pearl Jam]] – "[[Go (Pearl Jam song)|Go]]"
+#[[The Cruel Sea (band)|The Cruel Sea]] – "The Honeymoon Is Over"
+#[[Atomic Swing]] – "Stone Me Into the Groove"
+|
+*Return after list hiatus in 1992.
+*The new format only allowed songs released as singles within the list's calendar year.
+*[[The Cruel Sea (band)|The Cruel Sea]] achieved three tracks in the list.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1994|1994]]'''
+|
+#[[The Cranberries]] – "[[Zombie (song)|Zombie]]"
+#[[Nine Inch Nails]] – "[[Closer (Nine Inch Nails song)|Closer]]"
+#[[The Offspring]] – "[[Self Esteem (song)|Self Esteem]]"
+#The Offspring – "[[Come Out and Play (The Offspring song)|Come Out and Play]]"
+#[[Silverchair]] – "[[Tomorrow (Silverchair song)|Tomorrow]]"
+#[[Veruca Salt]] – "[[Seether (song)|Seether]]"
+#[[Nirvana (band)|Nirvana]] – "[[About a Girl (Nirvana song)|About a Girl]]"
+#[[Max Sharam]] – "[[Coma (EP)|Coma]]"
+#[[Tom Jones (singer)|Tom Jones]] – "If I Only Knew"
+#[[Severed Heads]] – "[[Dead Eyes Opened]]"
+|
+*"[[Zombie (song)|Zombie]]" becomes the first No. 1 song with a female vocalist.
+*[[Soundgarden]] achieved four tracks in the list.
+*[[The Offspring]] scored back to back tracks at positions No. 3 and 4; the first time in an official countdown that a band scored two songs in the top 5.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1995|1995]]'''
+|
+#[[Oasis (band)|Oasis]] – "[[Wonderwall (song)|Wonderwall]]"
+#[[The Smashing Pumpkins]] – "[[Bullet with Butterfly Wings]]"
+#[[Coolio]] – "[[Gangsta's Paradise]]"
+#[[The Presidents of the United States of America (band)|The Presidents of the United States of America]] – "[[Kitty (song)|Kitty]]"
+#[[Björk]] – "[[It's Oh So Quiet]]"
+#[[Everclear (band)|Everclear]] – "[[Heroin Girl]]"
+#[[Custard (band)|Custard]] – "Apartment"
+#[[Nick Cave and the Bad Seeds]] and [[Kylie Minogue]] – "[[Where the Wild Roses Grow]]"
+#[[TISM]] – "[[(He'll Never Be An) Ol' Man River]]"
+#TISM – "[[Greg! The Stop Sign!!]]"
+|
+*[[Alanis Morissette]], [[Green Day]], [[Live (band)|Live]], [[Red Hot Chili Peppers]], [[TISM]] and [[You Am I]] scored three tracks each.
+*Alanis Morissette scored three songs without a single song of hers being played on Triple J that year.{{citation needed|date=March 2012}}
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1996|1996]]'''
+|
+#[[Spiderbait]] – "Buy Me a Pony"
+#[[Tool (band)|Tool]] – "[[Stinkfist]]"
+#[[Ben Folds Five]] – "[[Underground (Ben Folds Five song)|Underground]]"
+#[[Butthole Surfers]] – "[[Pepper (song)|Pepper]]"
+#[[Bush (British band)|Bush]] – "[[Glycerine (song)|Glycerine]]"
+#[[Powderfinger]] – "[[Pick You Up]]"
+#[[The Prodigy]] – "[[Breathe (The Prodigy song)|Breathe]]"
+#[[Allen Ginsberg]] – "Ballad of the Skeletons"
+#[[Weezer]] – "[[El Scorcho]]"
+#[[Babybird]] – "[[You're Gorgeous]]"
+|
+*The first time an Australian track had been voted No. 1.
+*[[Bush (British band)|Bush]], [[Pearl Jam]], [[Powderfinger]] and [[The Smashing Pumpkins]] all achieved three entries in the list.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1997|1997]]'''
+|
+#[[The Whitlams]] – "[[No Aphrodisiac]]"
+#[[Blur (band)|Blur]] – "[[Song 2]]"
+#[[Chumbawamba]] – "[[Tubthumping]]"
+#[[The Verve]] – "[[Bitter Sweet Symphony]]"
+#[[Pauline Pantsdown]] – "Back Door Man"
+#[[Blink-182]] – "[[Dammit]]"
+#[[Radiohead]] – "[[Paranoid Android]]"
+#[[Marilyn Manson]] – "[[The Beautiful People (song)|The Beautiful People]]"
+#Radiohead – "[[Karma Police]]"
+#[[Jebediah]] – "[[Leaving Home (Jebediah song)|Leaving Home]]"
+|
+*Former Prime Minister [[Gough Whitlam]] announced the winning song, sung by "his eponym", [[The Whitlams]].
+*[[Pauline Pantsdown]]'s track "Back Door Man", which was banned by a court injunction from [[Pauline Hanson]] only 11 days after being first broadcast by the station,<ref>[http://www.sclqld.org.au/qjudgment/1998/QCA/306 Australian Broadcasting Corporation v Hanson - Queensland Judgments - Supreme Court Library<!-- Bot generated title -->]</ref> was voted No. 7.
+*[[Arkarna]], [[Bloodhound Gang]], [[Everclear (band)|Everclear]], [[Grinspoon]], [[Jebediah]], [[The Living End]], [[Radiohead]], [[Silverchair]], [[The Verve]], [[The Whitlams]] and [[Ween]] all achieved two songs in the list.
+*1997 had the highest number of different artists represented of any Hottest 100.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1998|1998]]'''
+|
+#[[The Offspring]] – "[[Pretty Fly (For a White Guy)]]"
+#[[Ben Lee]] – "[[Cigarettes Will Kill You]]"
+#[[Custard (band)|Custard]] – "[[Girls Like That (Don't Go For Guys Like Us)]]"
+#[[Hole (band)|Hole]] – "[[Celebrity Skin (song)|Celebrity Skin]]"
+#[[Korn|KoЯn]] – "[[Got the Life]]"
+#[[Regurgitator]] – "! (The Song Formerly Known As)"
+#[[Jebediah]] – "[[Harpoon]]"
+#[[Powderfinger]] – "[[The Day You Come]]"
+#[[You Am I]] – "[[Heavy Heart (song)|Heavy Heart]]"
+#[[The Living End]] – "[[Save the Day]]"
+|
+*[[Regurgitator]] scored four tracks in the list. Frontman [[Quan Yeomans]] was involved with six tracks (including three in succession from No. 26 to No. 28): four with Regurgitator and twice with [[Happyland (band)|Happyland]].
+*The list included two versions of the song "[[Harpoon (EP)|Harpoon]]": the original by [[Jebediah]] at No. 7 and [[Something for Kate]]'s cover at No. 85.
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100 of All Time, 1998|All Time (1998)]]'''
+|
+# [[Nirvana (band)|Nirvana]] – "[[Smells Like Teen Spirit]]" (1991)
+# [[Hunters & Collectors]] – "[[Throw Your Arms Around Me]]" (1985)
+# [[Pearl Jam]] – "[[Alive (Pearl Jam song)|Alive]]" (1991)
+# [[Jeff Buckley]] – "[[Last Goodbye (Jeff Buckley song)|Last Goodbye]]" (1994)
+# [[Radiohead]] – "[[Creep (Radiohead song)|Creep]]" (1992)
+# [[Led Zeppelin]] – "[[Stairway to Heaven]]" (1971)
+# [[Metallica]] – "[[One (Metallica song)|One]]" (1988)
+# [[Queen (band)|Queen]]  – "[[Bohemian Rhapsody]]" (1975)
+# Metallica – "[[Enter Sandman]]" (1991)
+# Pearl Jam – "[[Black (Pearl Jam song)|Black]]" (1991)
+|
+* Compiled and played in August 1998.
+* Hosted by [[Robbie Buck]], who played the wrong song by [[Led Zeppelin]] for No. 6, which was supposed to be "[[Stairway to Heaven]]".{{citation needed|date=March 2012}}
+* [[Grinspoon]]'s track "[[Just Ace]]", and the [[Ben Folds Five]] track "[[Brick (song)|Brick]]" are the only songs to chart in an All Time countdown before an official yearly countdown.
+* [[The Cure]] achieved five entries on the list.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 1999|1999]]'''
+|
+#[[Powderfinger]] – "[[These Days (Powderfinger song)|These Days]]"
+#[[Killing Heidi]] – "[[Weir (song)|Weir]]"
+#[[The Tenants (band)|The Tenants]] – "You Shit Me to Tears"
+#[[Norman Cook|Fatboy Slim]] – "[[Praise You]]"
+#[[Placebo (band)|Placebo]] – "[[Every You Every Me]]"
+#[[Bloodhound Gang]] – "[[The Bad Touch]]"
+#[[Rage Against the Machine]] – "[[Guerrilla Radio]]"
+#[[Limp Bizkit]] – "[[Nookie (song)|Nookie]]"
+#[[Pearl Jam]] – "[[Last Kiss#Pearl Jam version|Last Kiss]]"
+#[[Red Hot Chili Peppers]] – "[[Scar Tissue (song)|Scar Tissue]]"
+|
+* [[Powderfinger]] and [[Silverchair]] scored four tracks each.
+* The 1999 countdown held the record for the most Australian artists in a countdown, with 52. This record was equaled in the 2007 countdown, and later broken in the 2014 countdown.
+*[[Killing Heidi]] set the record for the highest ranking song by an [[Triple J Unearthed|Unearthed]] artist.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2000|2000]]'''
+|
+#[[Powderfinger]] – "[[My Happiness (Powderfinger song)|My Happiness]]"
+#[[U2]] – "[[Beautiful Day]]"
+#Powderfinger – "[[My Kind of Scene]]"
+#[[Wheatus]] – "[[Teenage Dirtbag]]"
+#[[Coldplay]] – "[[Yellow (Coldplay song)|Yellow]]"
+#[[The Avalanches]] – "[[Frontier Psychiatrist]]"
+#[[Red Hot Chili Peppers]] – "[[Californication (song)|Californication]]"
+#[[Foo Fighters]] – "[[Generator (Foo Fighters song)|Generator]]"
+#[[Paul Kelly (Australian musician)|Paul Kelly]] – "Every Fucking City"
+#[[The Dandy Warhols]] – "[[Bohemian Like You]]"
+|
+*[[Rage Against the Machine]] achieved three tracks.
+*[[Powderfinger]] became the first and, to date, only artist to have two Hottest 100 No. 1 tracks, in 1999 and 2000.
+*Powderfinger became the second band to achieve two songs in the top five, the first Australian band to do so.
+
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2001|2001]]'''
+|
+#[[Alex Lloyd]] – "[[Amazing (Alex Lloyd song)|Amazing]]"
+#[[Something for Kate]] – "Monsters"
+#[[System of a Down]] – "[[Chop Suey! (song)|Chop Suey!]]"
+#[[Basement Jaxx]] – "[[Where's Your Head At]]"
+#[[John Butler Trio]] – "Betterman"
+#[[Alien Ant Farm]] – "[[Smooth Criminal]]"
+#[[Weezer]] – "[[Island in the Sun (Weezer song)|Island in the Sun]]"
+#[[The Avalanches]] – "[[Since I Left You (song)|Since I Left You]]"
+#[[Gorillaz]] featuring [[Del the Funky Homosapien|Del tha Funkee Homosapien]] – "[[Clint Eastwood (song)|Clint Eastwood]]"
+#[[Cake (band)|Cake]] – "[[Short Skirt/Long Jacket]]"
+|
+*[[Eskimo Joe]], [[Muse (band)|Muse]], [[Something for Kate]] and [[The Strokes]] scored three tracks each.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2002|2002]]'''
+|
+#[[Queens of the Stone Age]] – "[[No One Knows]]"
+#[[Grinspoon]] – "[[Chemical Heart]]"
+#[[The Waifs]] – "[[London Still]]"
+#[[1200 Techniques]] – "Karma"
+#[[The Vines (band)|The Vines]] – "[[Get Free]]"
+#[[Machine Gun Fellatio]] – "Pussytown"
+#[[Eminem]] – "[[Lose Yourself]]"
+#Machine Gun Fellatio – "Rollercoaster"
+#[[Red Hot Chili Peppers]] – "[[By the Way (Red Hot Chili Peppers song)|By the Way]]"
+#[[Silverchair]] – "[[The Greatest View]]"
+|
+*[[Queens of the Stone Age]] and [[Silverchair]] scored five tracks each.
+*[[Dave Grohl]] was involved with ten tracks (including three in succession from No. 11 to No. 13): five with Queens of the Stone Age, four with the [[Foo Fighters]], and one with [[Nirvana (band)|Nirvana]].
+*[[Grinspoon]] equal [[Killing Heidi]]'s record of the Highest placing of a Triple J Unearthed artist at No. 2.
+*[[Mark Lanegan]] became the oldest person to win the Hottest 100. He was 42 when it was announced that "[[No One Knows]]" won the countdown.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2003|2003]]'''
+|
+#[[Jet (Australian band)|Jet]] – "[[Are You Gonna Be My Girl]]"
+#[[Outkast|OutKast]] – "[[Hey Ya!]]"
+#[[The White Stripes]] – "[[Seven Nation Army]]"
+#[[Powderfinger]] – "[[(Baby I've Got You) On My Mind]]"
+#[[Coldplay]] – "[[Clocks (song)|Clocks]]" ([[Röyksopp]] Remix)
+#[[The Cat Empire]] – "[[Hello (The Cat Empire song)|Hello]]"
+#Powderfinger – "[[Sunsets (song)|Sunsets]]"
+#[[John Butler Trio]] – "[[Zebra (The John Butler Trio song)|Zebra]]"
+#[[Hilltop Hoods]] – "[[The Nosebleed Section]]"
+#Powderfinger – "[[Love Your Way]]"
+|
+*[[Powderfinger]] and [[The White Stripes]] achieved five tracks each.
+*Powderfinger became the first band to achieve three tracks in the top ten.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2004|2004]]'''
+|
+#[[Franz Ferdinand (band)|Franz Ferdinand]] – "[[Take Me Out (song)|Take Me Out]]"
+#[[Missy Higgins]] – "[[Scar (song)|Scar]]"
+#[[Eskimo Joe]] – "[[From the Sea]]"
+#[[The Killers]] – "[[Somebody Told Me]]"
+#[[Spiderbait]] – "[[Black Betty#Spiderbait version|Black Betty]]"
+#Missy Higgins – "[[Ten Days (Missy Higgins song)|Ten Days]]"
+#[[John Butler Trio]] – "[[Something's Gotta Give (The John Butler Trio song)|Something's Gotta Give]]"
+#[[Little Birdy]] – "[[Beautiful to Me (Little Birdy song)|Beautiful to Me]]"
+#[[Powderfinger]] – "[[Bless My Soul]]"
+#[[The White Stripes]] – "[[Jolene (song)#The White Stripes|Jolene]]" (Live)
+|
+*[[John Butler Trio]] and the [[Scissor Sisters]] scored four tracks each.
+*The list included two versions of the song "[[Take Me Out (song)|Take Me Out]]": the original by [[Franz Ferdinand (band)|Franz Ferdinand]] at No. 1 and Scissor Sisters' cover at No. 44.
+*At No. 5, [[Spiderbait]]'s cover of "[[Black Betty#Spiderbait version|Black Betty]]" ties becomes the highest ranked [[cover version]] in a Hottest 100 countdown.
+*[[Missy Higgins]]'s "[[Scar (song)|Scar]]" is the equal highest ranking song by an [[Triple J Unearthed|Unearthed]] artist. It is tied with [[Killing Heidi]] in 1999 and [[Grinspoon]] in 2002.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2005|2005]]'''
+|
+#[[Bernard Fanning]] – "[[Wish You Well (Bernard Fanning song)|Wish You Well]]"
+#[[Ben Lee]] – "[[Catch My Disease]]"
+#[[Gorillaz]] featuring [[De La Soul]] – "[[Feel Good Inc.]]"
+#[[Foo Fighters]] – "[[Best of You]]"
+#Gorillaz featuring [[Shaun Ryder]] – "[[Dare (song)|DARE]]"
+#[[Wolfmother]] – "[[Mind's Eye (song)|Mind's Eye]]"
+#[[The White Stripes]] – "[[My Doorbell]]"
+#[[End of Fashion]] – "[[O Yeah (End of Fashion song)|O Yeah]]"
+#Wolfmother – "[[Joker & the Thief]]"
+#[[Franz Ferdinand (band)|Franz Ferdinand]] – "[[Do You Want To]]"
+|
+*[[Wolfmother]] had six tracks selected, the most ever by an artist in a single countdown.
+*[[Gorillaz]] became the third band to place twice in the Top 5.
+*[[Bernard Fanning]] achieves a Hottest 100 No. 1 for the third time (the only artist to do so to date), including twice with [[Powderfinger]] in 1999 and 2000.
+*[[Ben Lee]] achieves No. 2 for the second time.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2006|2006]]'''
+|
+#[[Augie March]] – "[[One Crowded Hour]]"
+#[[Eskimo Joe]] – "[[Black Fingernails, Red Wine (song)|Black Fingernails, Red Wine]]"
+#[[Hilltop Hoods]] – "[[The Hard Road (song)|The Hard Road]]"
+#[[The Killers]] – "[[When You Were Young]]"
+#[[Scissor Sisters]] – "[[I Don't Feel Like Dancin']]"
+#[[Gnarls Barkley]] – "[[Crazy (Gnarls Barkley song)|Crazy]]"
+#[[Snow Patrol]] – "[[Chasing Cars]]"
+#[[Gotye]] – "[[Hearts a Mess]]"
+#[[Muse (band)|Muse]] – "[[Starlight (Muse song)|Starlight]]"
+#[[The Grates]] – "19-20-20"
+|
+*[[Hilltop Hoods]] had five songs in the list.
+*[[The Living End]] featured in the Hottest 100 for the tenth consecutive year.
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2007|2007]]'''
+|
+#[[Muse (band)|Muse]] – "[[Knights of Cydonia]]"
+#[[Silverchair]] – "[[Straight Lines (song)|Straight Lines]]"
+#[[Kings of Leon]] – "[[On Call]]"
+#[[John Butler Trio]] – "[[Better Than]]"
+#[[Faker (band)|Faker]] – "[[This Heart Attack]]"
+#[[Foo Fighters]] – "[[The Pretender (Foo Fighters song)|The Pretender]]"
+#[[Daft Punk]] – "[[Harder, Better, Faster, Stronger]] ([[Alive 2007]])"
+#[[Cold War Kids]] – "[[Hang Me Up to Dry]]"
+#[[Soko (singer)|Soko]] – "I'll Kill Her"
+#[[The Panics]] – "Don't Fight It"
+|
+*[[Bloc Party]], [[John Butler Trio]], [[Josh Pyke]], [[Kings of Leon]] and [[Silverchair]] achieved three selections each.
+*2007 was the closest Hottest 100 ever, with [[Muse (band)|Muse]] winning by only 14 votes.<ref name="closeresult">{{cite web|url=http://www.abc.net.au/triplej/hottest100/alltime/20years/countdown/#90|title=Countdown: Twenty Years of triple j's Hottest 100|date=9 June 2013|publisher=[[ABC Online]]|accessdate=9 June 2013}}</ref>
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2008|2008]]'''
+|
+#[[Kings of Leon]] – "[[Sex on Fire]]"
+#[[MGMT]] – "[[Electric Feel]]"
+#Kings of Leon – "[[Use Somebody]]"
+#[[Empire of the Sun (band)|Empire of the Sun]] – "[[Walking on a Dream (song)|Walking on a Dream]]"
+#MGMT – "[[Kids (MGMT song)|Kids]]"
+#[[The Presets]] – "[[Talk Like That]]"
+#[[Pez (musician)|Pez]] featuring [[360 (rapper)|360]] and [[Hailey Cramer]] – "The Festival Song"
+#The Presets – "[[This Boy's in Love]]"
+#[[The Ting Tings]] – "[[That's Not My Name]]"
+#[[Drapht]] – "[[Jimmy Recard]]"
+|
+*Both [[Kings of Leon]] and [[Vampire Weekend]] scored four tracks each.
+*Both Kings of Leon and [[MGMT]] placed twice in the Top 5, the fourth and fifth artists to do so. This is also the first time where two separate artists appeared twice in the Top 5.
+*The 2008 countdown marked the first time since 1995 that no Australian artist has featured in the Top 3 songs.
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100 of All Time, 2009|All Time (2009)]]'''
+|
+#[[Nirvana (band)|Nirvana]] – "[[Smells Like Teen Spirit]]" (1991)
+#[[Rage Against the Machine]] – "[[Killing in the Name]]" (1992)
+#[[Jeff Buckley]] – "[[Hallelujah (Leonard Cohen song)#Jeff Buckley|Hallelujah]]" (1994)
+#[[Joy Division]] – "[[Love Will Tear Us Apart]]" (1980)
+#[[Radiohead]] – "[[Paranoid Android]]" (1997)
+#[[Queen (band)|Queen]] – "[[Bohemian Rhapsody]]" (1975)
+#Jeff Buckley – "[[Last Goodbye (Jeff Buckley song)|Last Goodbye]]" (1994)
+#[[Red Hot Chili Peppers]] – "[[Under the Bridge]]" (1991)
+#[[Foo Fighters]] – "[[Everlong]]" (1997)
+#[[Led Zeppelin]] – "[[Stairway to Heaven]]" (1971)
+|
+*Voting was held in June 2009, results were broadcast from 7 to 12 July 2009.
+*[[Nirvana (band)|Nirvana's]] "[[Smells Like Teen Spirit]]" was voted No. 1 for the third time in a row in the Hottest 100 of All Time (previous years 1991 and 1998).
+*[[Jeff Buckley]] and [[Radiohead]] scored four tracks each in the countdown.
+*Only two songs in the countdown featured a female lead vocalist: [[Elizabeth Fraser]] and [[Shara Nelson]], both guest vocalists on songs by [[Massive Attack]].
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2009|2009]]'''
+|
+#[[Mumford & Sons]] – "[[Little Lion Man]]"
+#[[Art vs. Science]] – "[[Parlez Vous Francais?]]"
+#[[Hilltop Hoods]] – "[[Chase That Feeling]]"
+#[[Phoenix (band)|Phoenix]] – "[[Lisztomania (song)|Lisztomania]]"
+#[[Bluejuice]] – "[[Broken Leg]]"
+#[[La Roux]] – "[[Bulletproof (La Roux song)|Bulletproof]]"
+#[[Lisa Mitchell]] – "[[Coin Laundry]]"
+#[[Lily Allen]] – "[[Not Fair]]"
+#[[Muse (band)|Muse]] – "[[Uprising (song)|Uprising]]"
+#[[Florence and the Machine]] – "[[Dog Days Are Over]]"
+|
+* [[Florence and the Machine]] and [[Muse (band)|Muse]] each had four tracks in the countdown.
+* This is the first Hottest 100 not to feature an American artist in the Top 10.
+* [[Art vs. Science]]'s "[[Parlez Vous Francais?]]" is the equal highest ranking song by an [[Triple J Unearthed|Unearthed]] artist. It tied with [[Killing Heidi]] in 1999, [[Grinspoon]] in 2002 and [[Missy Higgins]] in 2004. 
+* The 2009 winner was leaked on 22 January by [[ABC Commercial]].<ref name="crikeyleak">{{cite web|url=http://crikey.com.au/2010/01/22/oz-day-spoiler-abc-leaks-hottest-100-victor/|title=Oz day spoiler: ABC leaks Hottest 100 victor|date=22 January 2010|publisher=[[Crikey]]|archiveurl=http://webcitation.org/5n3sEKTPe|archivedate=26 January 2010|accessdate=22 January 2010}}</ref><ref name="abcleak">{{cite web|url=http://abc.net.au/news/stories/2010/01/22/2799089.htm|title=Spoiler alert: Hottest 100 winner leaked|date=22 January 2010|publisher=[[ABC Online]]|archiveurl=http://webcitation.org/5n3tnxfUG|archivedate=26 January 2010|accessdate=22 January 2010}}</ref>
+|-
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2010|2010]]'''
+|
+#[[Angus & Julia Stone]] – "[[Big Jet Plane]]"
+#[[Little Red (band)|Little Red]] – "[[Rock It (Little Red song)|Rock It]]"
+#[[Ou Est le Swimming Pool]] – "[[Dance the Way I Feel]]"
+#[[Birds of Tokyo]] – "[[Plans (song)|Plans]]"
+#[[Boy & Bear]] – "[[Fall at Your Feet]]"
+#[[Adrian Lux]] – "[[Teenage Crime (song)|Teenage Crime]]"
+#[[CeeLo Green|Cee-Lo Green]] – "[[Fuck You (CeeLo Green song)|Fuck You]]"
+#[[The Wombats]] – "[[Tokyo (Vampires & Wolves)]]"
+#[[Art vs. Science]] – "[[Magic Fountain (EP)|Magic Fountain]]"
+#[[Mark Ronson|Mark Ronson & The Business Intl.]] featuring [[Boy George]] and [[Andrew Wyatt]] – "[[Somebody to Love Me (Mark Ronson & The Business Intl. song)|Somebody to Love Me]]"
+|
+* [[Arcade Fire]], [[Birds of Tokyo]], [[Bliss n Eso]], [[Gorillaz]], [[Gypsy & The Cat]], [[Mark Ronson|Mark Ronson & The Business Intl.]], [[Pendulum (drum and bass band)|Pendulum]] and [[Megan Washington|Washington]] all achieved three tracks.
+* This is the first countdown since 1994 that features a female vocalist in the No. 1 song, and the first time since 1996 for any female member of the winning artist.
+*[[Boy & Bear]]'s cover of [[Crowded House]]'s "[[Fall at Your Feet]]" ties with [[Spiderbait]]'s cover of "[[Black Betty]]" in 2004 as highest ranking cover song.
+* [[Robert Smith (musician)|Robert Smith]]'s appearance with [[Crystal Castles (band)|Crystal Castles]] in the 2010 list marked his first appearance in a Hottest 100 since 1997. This 13-year absence between songs is the equal longest by any artist in Hottest 100 history.
+*[[Little Red (band)|Little Red]] equal the record of [[Killing Heidi]], [[Grinspoon]], [[Missy Higgins]] and [[Art vs. Science]] as the highest placing song by a Triple J Unearthed artist (No. 2). 
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100 Australian Albums of All Time, 2011|Australian Albums (2011)]]'''
+|
+#[[Powderfinger]] – ''[[Odyssey Number Five]]'' (2000)
+#[[Silverchair]] – ''[[Frogstomp]]'' (1995)
+#[[AC/DC]] – ''[[Back in Black]]'' (1980)
+#[[The Living End]] – ''[[The Living End (The Living End album)|The Living End]]'' (1999)
+#[[INXS]] – ''[[Kick (INXS album)|Kick]]'' (1987)
+#Powderfinger – ''[[Internationalist (album)|Internationalist]]'' (1998)
+#[[The Presets]] – ''[[Apocalypso (The Presets album)|Apocalypso]]'' (2008)
+#[[Wolfmother]] – ''[[Wolfmother (album)|Wolfmother]]'' (2005)
+#[[The Avalanches]] – ''[[Since I Left You]]'' (2000)
+#[[Regurgitator]] – ''[[Unit (album)|Unit]]'' (1997)
+|
+* Compiled in June 2011, and counted down between 28 June and 10 July.
+* The first Hottest 100 countdown that is not based on single tracks.
+* This is now the third Hottest 100 won by [[Powderfinger]].
+* [[Silverchair]] and [[Bernard Fanning]] both appeared five times in the countdown. Fanning appeared once solo and four times with Powderfinger.
+* Every one of Silverchair's studio albums reached the countdown.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2011|2011]]'''
+|
+# [[Gotye]] featuring [[Kimbra]] – "[[Somebody That I Used to Know]]"
+# [[The Black Keys]] – "[[Lonely Boy (The Black Keys song)|Lonely Boy]]"
+# [[Matt Corby]] – "[[Brother (Matt Corby song)|Brother]]"
+# [[Boy & Bear]] – "Feeding Line"
+# [[M83 (band)|M83]] – "[[Midnight City]]"
+# [[Lana Del Rey]] – "[[Video Games (song)|Video Games]]"
+# [[San Cisco]] – "Awkward"
+# [[360 (rapper)|360]] featuring [[Gossling]] – "[[Boys like You (360 song)|Boys like You]]"
+# [[The Jezabels]] – "Endless Summer"
+# [[Hilltop Hoods]] Featuring [[Sia (musician)|Sia]] – "[[I Love It (Hilltop Hoods song)|I Love It]]"
+|
+*[[The Wombats]] and [[Kimbra]] chart four times throughout the countdown.
+*This is the first collaboration between artists to win the Hottest 100.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2012|2012]]'''
+|
+# [[Macklemore]] and [[Ryan Lewis]] featuring [[Wanz]] – "[[Thrift Shop]]"
+# [[Of Monsters and Men]] – "[[Little Talks]]"
+# [[Alt-J]] – "[[Breezeblocks (song)|Breezeblocks]]"
+# [[Flume (musician)|Flume]] – "[[Holdin On]]"
+# [[Mumford & Sons]] – "[[I Will Wait]]"
+# [[Major Lazer]] featuring [[Amber Coffman]] – "[[Get Free (Major Lazer song)|Get Free]]"
+# [[Tame Impala]] – "[[Elephant (Tame Impala song)|Elephant]]"
+# [[Frank Ocean]] – "[[Lost (Frank Ocean song)|Lost]]"
+# Tame Impala – "[[Feels Like We Only Go Backwards]]"
+# [[The Rubens]] – "[[My Gun]]"
+|
+* [[Flume (musician)|Flume]] had four tracks on the countdown.
+* "[[Thrift Shop]]" is the first hip-hop song to top the chart in Hottest 100 history. It also breaks the record of highest ranking hip-hop song, which was previously set by [[Coolio]], [[Gorillaz]] & [[Hilltop Hoods]]. All of whom managed to place third in 1995, 2005, 2006 & 2009.
+* For the first time since 2008 no Australian artist featured in the Top 3.
+* The four highest charting artists in this year's countdown were all debutantes. This is the first time this has happened since the first countdown in 1993.
+* [[Ben Folds Five]] return to the list after a 13-year absence, equaling the record set by [[Robert Smith (musician)|Robert Smith]] in 2010.
+|- style="background:#ffd;"
+| style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100 of the Past 20 Years, 2013|20 Years of the Hottest 100 (2013)]]'''
+|
+# [[Oasis (band)|Oasis]] – "[[Wonderwall (song)|Wonderwall]]" (1995)
+# [[The White Stripes]] – "[[Seven Nation Army]]" (2003)
+# [[Jeff Buckley]] – "[[Last Goodbye (Jeff Buckley song)|Last Goodbye]]" (1994)
+# [[Hilltop Hoods]] – "[[The Nosebleed Section]]" (2003)
+# [[The Verve]] – "[[Bitter Sweet Symphony]]" (1997)
+# [[Foo Fighters]] – "[[Everlong]]" (1997)
+# [[The Killers]] – "[[Mr. Brightside]]" (2004)
+# [[Powderfinger]] – "[[These Days (Powderfinger song)|These Days]]" (2000)
+# [[Gotye]] featuring [[Kimbra]] – "[[Somebody That I Used to Know]]" (2011)
+# Powderfinger – "[[My Happiness (Powderfinger song)|My Happiness]]" (2000)
+|
+*Voting was held in May 2013, results were broadcast on the 8 and 9 June 2013.
+*[[Daft Punk]], [[Damon Albarn]], [[Dave Grohl]], [[The Killers]] and [[Silverchair]] all got three tracks.
+*Four tracks in the countdown had not been charted in an annual Hottest 100.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2013|2013]]'''
+|
+# [[Vance Joy]] – "[[Riptide (Vance Joy song)|Riptide]]"
+# [[Lorde]] – "[[Royals (song)|Royals]]"
+# [[Daft Punk]] featuring [[Pharrell Williams|Pharrell]] – "[[Get Lucky (Daft Punk song)|Get Lucky]]"
+# [[Arctic Monkeys]] – "[[Do I Wanna Know?]]"
+# [[Flume (musician)|Flume]] & [[Nick Murphy (musician)|Chet Faker]] – "[[Drop the Game]]"
+# Arctic Monkeys – "[[Why'd You Only Call Me When You're High?]]"
+# [[Lana Del Rey]] – "[[Young and Beautiful (Lana Del Rey song)|Young and Beautiful]]"
+# [[Matt Corby]] – "[[Resolution (Matt Corby song)|Resolution]]"
+# [[The Preatures]] – "Is This How You Feel?"
+# [[London Grammar]] – "[[Strong (London Grammar song)|Strong]]"
+|
+*Four [[Daft Punk]] tracks ranked.
+*Two versions of "[[Get Lucky (Daft Punk song)|Get Lucky]]" appeared in the countdown, the original by Daft Punk at number 3 and [[San Cisco]]'s cover at number 39; this is the first time it has happened since 2004.
+*[[Vance Joy]] is the first [[Triple J Unearthed]] artist to place first in the Hottest 100.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2014|2014]]'''
+|
+# [[Nick Murphy (musician)|Chet Faker]] – "[[Talk Is Cheap (Chet Faker song)|Talk Is Cheap]]"
+# [[Peking Duk]] featuring [[Nicole Millar]] – "[[High (Peking Duk song)|High]]"
+# [[Hilltop Hoods]] – "[[Cosby Sweater]]"
+# [[Milky Chance]] – "[[Stolen Dance]]"
+# Peking Duk featuring [[Safia (band)|SAFIA]] – "[[Take Me Over (Peking Duk song)|Take Me Over]]"
+# [[Mark Ronson]] featuring [[Bruno Mars]] – "[[Uptown Funk]]"
+# Chet Faker – "[[Gold (Chet Faker song)|Gold]]"
+# Chet Faker – "[[1998 (Chet Faker song)|1998]]"
+# [[Sia (musician)|Sia]] – "[[Chandelier (song)|Chandelier]]"
+# [[Ásgeir Trausti|Ásgeir]] – "King and Cross"
+|
+* Four [[Nick Murphy (musician)|Chet Faker]] songs ranked.
+* Chet Faker became the second artist to chart three times in the top 10 places after [[Powderfinger]] achieved the feat in 2003.
+* The 2014 countdown featured 55 Australian entries, breaking the previous record of 52, set in 1999 and equaled in 2007.<ref name="Chet" />
+* [[Peking Duk]] are the sixth band to appear twice in the Top 5, the first to do so since [[Kings of Leon]] and [[MGMT]] in 2008.
+* [[Zack de la Rocha|Zach de la Rocha]]'s appearance with [[Run the Jewels]] marks his first return to a Hottest 100 since 2001. His 13-year absence equals the record set by [[Robert Smith (musician)|Robert Smith]] in 2010 and [[Ben Folds Five]] in 2012.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2015|2015]]'''
+|
+# [[The Rubens]] – "[[Hoops (The Rubens song)|Hoops]]"
+# [[Kendrick Lamar]] – "[[King Kunta]]"
+# [[Major Lazer]] & [[DJ Snake]] featuring [[MØ]] – "[[Lean On]]"
+# [[Tame Impala]] – "[[The Less I Know the Better]]"
+# Tame Impala – "[[Let It Happen (song)|Let It Happen]]"
+# Marcus Marr & [[Nick Murphy (musician)|Chet Faker]] – "[[The Trouble with Us]]"
+# [[Jarryd James]] – "[[Do You Remember (Jarryd James song)|Do You Remember]]"
+# [[Hermitude]] featuring Mataya & [[Young Tapz]] – "The Buzz"
+# [[The Weeknd]] – "[[Can't Feel My Face]]"
+# [[Disclosure (band)|Disclosure]] featuring [[Lorde]] – "[[Magnets (song)|Magnets]]"
+|
+* [[Tame Impala]] and [[Courtney Barnett]] scored four tracks each in the countdown.
+* This countdown marks the third year in a row an Australian act has placed first in the Hottest 100, equaling the streak set between 1999 and 2001.
+* Tame Impala marks the first time an artist has appeared twice consecutively in the Top 10.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2016|2016]]'''
+|
+# [[Flume (musician)|Flume]] featuring [[Kai (Canadian singer)|Kai]] – "[[Never Be like You]]"
+# [[Amy Shark]] – "[[Adore (Amy Shark song)|Adore]]" 
+# [[Tash Sultana]] – "[[Jungle (Tash Sultana song)|Jungle]]"
+# [[Hilltop Hoods]] featuring [[Montaigne (musician)|Montaigne]] and Tom Thum – "1955"
+# [[Donald Glover|Childish Gambino]] – "[[Redbone (song)|Redbone]]"
+# [[DMA's]] – "[[Believe (Cher song)|Believe]]" (Like a Version)
+# [[Illy (rapper)|Illy]] featuring [[Vera Blue]] – "[[Papercuts (Illy song)|Papercuts]]"
+# Flume featuring [[Tove Lo]] – "[[Say It (Flume song)|Say It]]"
+# [[Peking Duk]] featuring [[Elliphant]] – "[[Stranger (Peking Duk song)|Stranger]]"
+# [[The Weeknd]] featuring [[Daft Punk]] – "[[Starboy (song)|Starboy]]"
+|
+* [[Violent Soho]] scored five tracks in the countdown.
+* 2016's countdown featured 66 Australian entries, breaking the previous record of 59 set in 2014.<ref>{{cite web|url=http://musicfeeds.com.au/news/triple-j-teases-tomorrow-hottest-100-results-juicy-stats/#/slide/1|title=Triple J Teases Tomorrow's Hottest 100 Results With Some Juicy&nbsp;Stats|author=Tom Williams|date=25 January 2017|publisher=Music Feeds|accessdate=25 January 2017}}</ref>
+* [[Paul Kelly (Australian musician)|Paul Kelly]]'s appearance with [[A.B. Original]] marked his first appearance in a Hottest 100 since 2000. This record-breaking 16-year absence is longer than any other in Hottest 100 history.
+* This countdown set a new record for the longest Australian winning streak in the Hottest 100 (2013–2016), beating the previous streak between 1999 and 2001.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2017|2017]]'''
+|
+# [[Kendrick Lamar]] – "[[Humble (song)|Humble]]"
+# [[Gang of Youths]] – "[[Let Me Down Easy (Gang of Youths song)|Let Me Down Easy]]"
+# [[Angus & Julia Stone]] – "[[Chateau (Angus & Julia Stone song)|Chateau]]"
+# [[Methyl Ethel]] – "Ubu"
+# Gang of Youths – "[[The Deepest Sighs, the Frankest Shadows]]"
+# [[Lorde]] – "[[Green Light (Lorde song)|Green Light]]"
+# [[Pnau]] – "[[Go Bang (Pnau song)|Go Bang]]"
+# [[Thundamentals]] featuring Mataya – "Sally"
+# [[Vance Joy]] – "[[Lay It on Me (Vance Joy song)|Lay It on Me]]"
+# Gang of Youths – "What Can I Do If the Fire Goes Out?"
+|
+* [[Kendrick Lamar]], [[Gang of Youths]], [[Lorde]] and [[The Jungle Giants]] each scored four tracks in the countdown.
+* Gang of Youths became the third artist to chart three times in the top 10, joining [[Nick Murphy (musician)|Chet Faker]] (2014) and [[Powderfinger]] (2003), and the seventh artist to place twice in the top 5.
+* Kendrick Lamar is the first African-American person to top the Hottest 100.
+* Kendrick Lamar becomes the first artist to place first in a countdown after previously coming second.
+|-
+|style="text-align:center; vertical-align:middle;"|'''[[Triple J Hottest 100, 2018|2018]]'''
+|
+# [[Ocean Alley]] – "[[Confidence]]"
+# [[Fisher (musician)|Fisher]] – "[[Losing It (song)|Losing It]]"
+# [[Travis Scott]] – "[[Sicko Mode]]"
+# [[Donald Glover|Childish Gambino]] – "[[This Is America (song)|This Is America]]"
+# [[Amy Shark]] – "[[I Said Hi]]"
+# [[Dean Lewis]] – "[[Be Alright (Dean Lewis song)|Be Alright]]"
+# [[Mallrat]] – "Groceries"
+# [[Billie Eilish]] – "[[When the Party's Over (Billie Eilish song)|When the Party's Over]]"
+# [[Ruby Fields]] – "Dinosaurs"
+# [[Ocean Alley]] – "Knees"
+|
+* [[Ocean Alley]] scored four tracks in the countdown.
+
+|}
+
+==Notable artists==
+{{refimprove|section|date=January 2018}}
+In the 25 years since its inception, the bands who have been featured the most are [[Powderfinger]], with 22 songs between the 1996 and 2009 countdowns, and the [[Foo Fighters]], who charted 22 times between 1995 and 2014. In 2011, it was incorrectly stated that Foo Fighters had the most appearances.<ref>http://hottest100.org/fingervsfoo.html</ref>
+Powderfinger's frontman, [[Bernard Fanning]], has taken the top spot on three occasions, twice with [[Powderfinger]] in 1999 and 2000 and once as a solo artist in 2005.
+
+[[Dave Grohl]] has appeared 32 times throughout the countdown's history, including the top spot on two occasions (1991, 2002); 13 of those appearances were from the Hottest 100 Of All Time countdowns. He has appeared 4 times with [[Nirvana (band)|Nirvana]], 22 with [[Foo Fighters]], 6 with [[Queens of The Stone Age]] and once with [[Them Crooked Vultures]]. In fact, Grohl has appeared in the most countdowns run by Triple J, only excluding those in 1989, 1990, 2001, 2003, 2004, 2008, 2010 and 2012.
+
+[[Robert Smith (musician)|Robert Smith]] of [[The Cure]] has appeared 34 times throughout the countdown's lifetime; 28 of those instances were in the All Time countdowns. Five additional entries came from countdowns between 1993 and 1997 with a final appearance, to date, through a collaboration with [[Crystal Castles (band)|Crystal Castles]] in 2010.
+
+==Controversy==
+
+===Lack of female artist representation===
+There has been increased debate regarding lack of representation of female artists in the Hottest 100 each year.<ref>{{cite news|title=Triple J's Hottest 100: where are the female singers? |url=https://www.theguardian.com/commentisfree/2013/jun/09/triple-j-100-women|work=The Guardian |accessdate=27 January 2018|date=9 June 2013}}</ref><ref>{{cite web| author=Karen Pickering |title=Feminism and Music |url=https://web.archive.org/web/20140122055321/http://mskarenpickering.com.au:80/2013/06/09/feminism-and-music/ |website=The Wayback Machine|accessdate=27 January 2018|date=9 June 2013}}</ref> In 2017 only sixteen of the artists were female,<ref>{{cite web|title=PLAYLIST: Australian women on triple j's 2017 Hottest 100 |url=http://www.musiclove.com.au/blog/2017/1/27/playlist-australian-women-on-triple-js-2017-hottest-100|website=musiclove|accessdate=27 January 2018|date=27 January 2017}}</ref> compared to 2015 where despite 48% of voters being female, only thirteen female solo artists and eight female fronted or duo artists received votes.<ref>{{cite news|author= |title=Triple J Hottest 100: It's a man's world|url=http://www.smh.com.au/entertainment/music/triple-j-hottest-100-its-a-mans-world-20150127-12yx4x.html |work=The Sydney Morning Herald|accessdate=27 January 2018|date=27 January 2015}}</ref> A  break down was provided by Casey Briggs for the 2014 Hottest 100<ref>{{cite web|author=Casey Briggs|title=The 2014 Hottest 100, by the numbers|url=http://www.caseybriggs.com/blog/2015/1/26/the-2014-hottest-100-by-the-numbers|accessdate=27 January 2018|date=26 January 2015}}</ref> and previous Hottest 100 polls over the Last 20 years (2013).<ref>{{cite web|author=Casey Briggs |title=Women in the Hottest 100: Some numbers |url=http://caseybriggs.tumblr.com/post/52540078370/women-in-the-hottest-100-some-numbers|accessdate=27 January 2018|date=6 September 2013}}</ref>
+
+===#Tay4Hottest100===
+Following a 13 January 2015 article on [[BuzzFeed]], the "#Tay4Hottest100" [[hashtag]] campaign began during the voting period for the Hottest 100 poll for 2014. According to those critical of the campaign, the Hottest 100 is reserved for non-mainstream artists who were "discovered or fostered by Triple J" and provides valuable exposure for artists in the outer circles of the music industry.<ref>{{cite news|author1=Peter Vincent|title=Triple J Hottest 100: Has Taylor Swift been dumped from contention due to KFC ad?|url=http://www.smh.com.au/entertainment/music/triple-j-hottest-100-has-taylor-swift-been-dumped-from-contention-due-to-kfc-ad-20150120-12u1gi.html|accessdate=23 January 2015|work=The Sydney Morning Herald|date=20 January 2015}}</ref><ref>{{cite web|author1=Sarah Smith|title=Flight Facilities weigh in on Taylor Swift Hottest 100 furore|url=http://www.inthemix.com.au/news/59825/Flight_Facilities_weigh_in_on_Taylor_Swift_Hottest_100_furore|website=inthemix|publisher=inthemix Pty Ltd|accessdate=23 January 2015|date=20 January 2015}}</ref>
+
+The campaign led to discussion <ref>{{Cite web|url=https://www.radioinfo.com.au/news/search?search=taylor%20swift%20hottest%20100&any=on|title=NEWS {{!}} radioinfo|website=www.radioinfo.com.au|access-date=2017-12-23}}</ref> about the broader cultural implications of the controversy generated by Swift. The ''[[Guardian Australia|Guardian]]''{{'}}s Elle Hunt wrote: "... the virulent response to #Tay4Hottest100 has revealed the persistence of a dichotomy I'd thought we'd thrown out long ago: that of high art versus low."<ref>{{cite news|author1=Elle Hunt|title=#Tay4Hottest100: Taylor Swift campaign shows it's time for Triple J to shake off cultural elitism|url=https://www.theguardian.com/commentisfree/2015/jan/19/tay4hottest100-taylor-swift-campaign-shows-its-time-for-triple-j-to-shake-off-cultural-elitism|accessdate=21 January 2015|work=The Guardian|date=19 January 2015}}</ref><ref>{{cite web|author1=Mark Di Stefano|title=Why Isn't Everyone Voting For "Shake It Off" In The Hottest 100?|url=https://www.buzzfeed.com/markdistefano/tay-4-hottest100#.gmLzd8y1p|website=BuzzFeed|publisher=BuzzFeed, Inc|accessdate=21 January 2015|date=13 January 2015}}</ref> Writing for ''[[The Conversation (website)|The Conversation]]'' on 23 January 2015, [[Charles Darwin University]] academic Gemma Blackwood concluded:
+
+<blockquote>
+The cultural and economic meanings attached to the celebrity-sign of "Taylor Swift" seems antithetical to Triple J's self-representation as a place for exciting new music, with a supposed focus on emerging Australian talent. This perhaps explains why Swift is excluded from the playlist when other "mainstream" American artists and chart toppers ... are still played on the station heavily: the alignment and transfer of values of what is considered "cool" and "hip" between the station and its chosen artists ... The concept of "youth" seems to be used in reference to a musical market and to identify particular music genres rather than being a real or an accurate signifier of young tastes and interests. It raises the question: what responsibility does a national youth broadcaster have in the shaping and the adapting of young musical interests?<ref name="Gem">{{cite news|author1=Gemma Blackwood|title=Taylor Swift, Triple J and what the youth market really wants to hear|url=http://theconversation.com/taylor-swift-triple-j-and-what-the-youth-market-really-wants-to-hear-36643|accessdate=1 February 2015|work=The Conversation|date=23 January 2015}}</ref></blockquote>
+
+Station manager Chris Scaddan told the media that the Swift campaign was within the rules of the poll, later instructing Triple J employees not to comment to "media, friends, family" about the campaign, as "it will all become clear when we get to the countdown next Monday." The station said: "we don't comment on voting campaigns whilst Hottest 100 voting is open. It draws attention to them and may influence the results of the poll."<ref>{{cite web|author1=Joe Harris|title=The Guardian Says Triple J Are "Sexist" For Ignoring Taylor Swift, & That's Just Dumb|url=http://www.tonedeaf.com.au/432757/guardian-triple-j-sexist-taylor-swift.htm|website=Tone Deaf|publisher=Tone Deaf|accessdate=21 January 2015|date=20 January 2015}}</ref> Marketing website Mumbrella suggested on 20 January that a Facebook post by [[KFC]] incorporating the "#Tay4Hottest100" hashtag was against the Hottest 100 rules and could see Swift disqualified.<ref>{{cite web|last1=Christensen|first1=Nic|title=KFC Facebook post may have disqualified Taylor Swift campaign from Triple J Hottest 100 list|url=http://mumbrella.com.au/abc-coy-taylor-swifts-hottest-100-eligibility-kfc-tries-jump-tay4hottest100-bandwagon-271943|website=Mumbrella|accessdate=22 January 2015|date=20 January 2015}}</ref> The ''Guardian'' submitted a freedom of information request to the ABC in regard to the station's response to the campaign.<ref>{{cite news|author1=Elle Hunt|title=Taylor Swift fans have spoken – but will Triple J's Hottest 100 listen?|url=https://www.theguardian.com/music/2015/jan/20/taylor-swift-fans-have-spoken-but-will-triple-js-hottest-100-listen|accessdate=21 January 2015|work=The Guardian|date=20 January 2015}}</ref>
+
+After journalist Peter Vincent reported that the Swift campaign had "swallowed" the Hottest 100 for 2014, citing research from the [[University of Queensland]] that showed that over 7,341 Hottest 100 posts in a 30-day period leading up to the poll results related to Swift, "Shake It Off" was eventually disqualified by the radio station in an announcement on 26 January 2015. The official announcement read: "it became pretty clear, pretty quick that a lot of people just wanted to prod some 'hipsters' for the lulz", acknowledging that the station "had a heap of fun", while Swift is "smart", "cool" and "successful". The song would have placed in the number-12 position if it had been allowed to compete.<ref>{{cite news|author1=Cameron Adams|title=Taylor Swift disqualified from Hottest 100|url=http://www.news.com.au/entertainment/tv/taylor-swift-disqualified-from-hottest-100/story-fnndfy6b-1227196860796|accessdate=26 January 2015|work=News.com.au|date=26 January 2015}}</ref><ref>{{cite news|author1=Peter Vincent|title=Taylor Swift campaign has swallowed Triple J Hottest 100|url=http://www.smh.com.au/entertainment/music/taylor-swift-campaign-has-swallowed-triple-j-hottest-100-20150123-12wfs1.html|accessdate=26 January 2015|work=The Sydney Morning Herald|date=23 January 2015}}</ref>
+
+On the inside cover of the Triple J Hottest 100 Volume 22 CD, bold capital initials spell out "TAYLOR SWIFT BAN".
+
+===Moving the Date===
+In mid-2016, support grew for a campaign calling on Triple J to change the date of the Hottest 100. Calls were led by [[Indigenous Australians|Indigenous Australian]] activists and supporters, many of whom regard Australia Day as "Invasion Day". [[Australian hip hop]] duo [[A.B. Original]] and their anti-Australia Day single "January 26" were instrumental in drawing support to the cause. Triple J responded to the campaign in September 2016, announcing a review over whether the date of the Hottest 100 should be changed.
+
+The review of the date continued into 2017, including consultation with [[Reconciliation Australia]], the [[National Congress of Australia's First Peoples]], and the [[National Australia Day Council]], while [[Triple J Hottest 100, 2016|2016's Hottest 100]] was held on Australia Day without change. In August 2017, Triple J launched a survey asking for public opinion on whether the date should be changed. Shortly after the survey began, former Triple J presenters [[Matt Okine]] and Kyran Wheatley came out in support of a date change.
+
+On 27 November 2017, Triple J announced plans to move the Hottest 100 to the fourth weekend of January. This followed analysis led by [[Rebecca Huntley]] of the aforementioned survey, which attracted 64,990 responses, indicating that 60% of listeners supported moving the date. The announcement was welcomed by many musicians and the [[Australian Greens]]. Within the [[Liberal Party of Australia|Liberal Party]], however, Communications Minister [[Mitch Fifield]] was reportedly "bewildered" by the choice, one that MP [[Alex Hawke]] described as "disappointing" and "pathetic". As the minister responsible for the government-funded [[Australian Broadcasting Corporation]] (ABC), which Triple J is part of, Fifield wrote to the ABC's [[board of directors]] on 28 November asking them to return the Hottest 100 to Australia Day.
+
+Some organisations offered alternatives to Triple J's Hottest 100 in response to the date change. These include nationwide rock radio station [[Triple M]] broadcasting an ''Ozzest 100'' countdown of only [[Music of Australia|Australian songs]] on 26 January, and Senator [[Cory Bernardi]]'s [[Australian Conservatives]] publishing an ''AC100'' playlist of Australian music on [[Spotify]].
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal|Australian music}}
+*[http://www.abc.net.au/triplej/hottest100/ Hottest 100 section of the Triple J website]
+*[http://bl.ocks.org/cpudney/raw/06a28f9454d7e389b676/ Chart of artists with most Hottest 100 entries 1993 – 2014]
+*[http://hottest100.org/ Hottest 100 database]
+
+{{Triple J}}
+{{Australian music charts}}
+{{Music of Australia}}
+
+[[Category:Australian record charts]]
+[[Category:Top lists]]
+[[Category:Triple J Hottest 100|*]]
